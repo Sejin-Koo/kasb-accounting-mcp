@@ -1,7 +1,5 @@
 {
-  "crawledAt": "2026-07-21T14:43:02+09:00",
-  "standardsCount": 2,
-  "qnaCount": 100,
-  "seed": true,
-  "note": "SEED DATA(일부만 수집) - GAAP 1,5장 + 질의회신 1페이지만 포함. 전체 크롤링은 GitHub Actions 최초 실행 또는 로컬에서 python3 crawl_kasb.py 전체 실행 필요."
+  "crawledAt": "2026-07-21T12:01:03+09:00",
+  "standardsCount": 81,
+  "qnaCount": 2255
 }
