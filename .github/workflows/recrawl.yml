@@ -1,0 +1,39 @@
+name: KASB 주간 재크롤링
+
+# KRX Regulation MCP와 동일한 방식: 매주 월요일 14:00(KST, = 05:00 UTC)에 자동 재크롤링하고,
+# 변경 사항이 있으면 자동 commit & push한다. Vercel이 push를 감지해 자동 재배포한다.
+# Actions 탭에서 "Run workflow"로 수동 실행도 가능하다(최초 전체 크롤링은 반드시 수동 실행 필요).
+
+on:
+  schedule:
+    - cron: "0 5 * * 1" # 매주 월요일 05:00 UTC = 14:00 KST
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  recrawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350 # 전체 크롤링은 기준서 수 x 조문 수 만큼 호출이 많아 시간이 걸릴 수 있음
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 크롤링 실행 (표준 라이브러리만 사용, 의존성 설치 불필요)
+        run: python3 crawler/crawl_kasb.py
+
+      - name: 변경사항 커밋 & 푸시
+        run: |
+          git config user.name "kasb-mcp-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "변경 사항 없음 - 커밋 생략"
+          else
+            git commit -m "chore: 주간 KASB 데이터 재크롤링 ($(date -u +%Y-%m-%d))"
+            git push
+          fi

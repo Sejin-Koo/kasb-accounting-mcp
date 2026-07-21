@@ -1,0 +1,1002 @@
+[
+  {
+    "type": "qna",
+    "id": 7232,
+    "docNumber": "SSI-202606006",
+    "date": "2025-12-29T15:00:00.000Z",
+    "title": "비금융변수와 금융변수가 함께 존재하는 경우에 파생상품 정의 충족 여부",
+    "relStds": "K-IFRS 제1109호 '금융상품' 문단 <span class='mundan-finder' data-std='1109' data-id='B.8'>B.8</span>, <span class='mundan-finder' data-std='1109' data-id='용어의 정의'>용어의 정의</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1109호 '금융상품' 문단 B.8, 용어의 정의\n본문\n질의\r\n회사는 전환사채를 발행하였는데 전환사채 인수자와 특정 조건을 충족하면 회사가 전환사채를 액면금액으로 재매입해야 하는 풋옵션 계약을 체결함\r\n\r\n특정 조건이 계약 당사자에게 특정된 비금융변수인 경우, 해당 풋옵션은 파생상품 정의를 충족하는지?\r\n\r\n(최초 계약 시 순투",
+    "url": "https://db.kasb.or.kr/qnas/7232"
+  },
+  {
+    "type": "qna",
+    "id": 7229,
+    "docNumber": "SSI-202606001",
+    "date": "2025-12-22T15:00:00.000Z",
+    "title": "상조회사 부금선수금의 유동성 분류",
+    "relStds": "K-IFRS 제1001호 '재무제표 표시' 문단 <span class='mundan-finder' data-std='1001' data-id='69'>69</span>,&nbsp;<span class='mundan-finder' data-std='1001' data-id='70'>70</span>,&nbsp;<span class='mundan-finder' data-std='1001' data-id='76A'>76A</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1001호 '재무제표 표시' 문단 69,&nbsp;70,&nbsp;76A\n본문\n질의\n상조업을 영위하는 회사는 선불식 할부거래를 통해 고객에게서 받은 부금선수금을 계약부채로 인식하고, 고객에게 상조서비스를 제공하는 시점에 수익을 인식함\n\n이러한 부금선수금의 유동성 분류는?\n\n회신\n□정상영업주기 내 결제될 것으로 예상되는 부분은 유",
+    "url": "https://db.kasb.or.kr/qnas/7229"
+  },
+  {
+    "type": "qna",
+    "id": 7237,
+    "docNumber": "SSI-202606011",
+    "date": "2025-12-11T15:00:00.000Z",
+    "title": "리스기간 연장 시 단기리스 해당 여부",
+    "relStds": "K-IFRS 제1116호 ‘리스’ <span class='page-finder' data-std='1116' data-page='#PAGE#'>용어의 정의</span>, <span class='mundan-finder' data-std='1116' data-id='5'>5</span>, <span class='mundan-finder' data-std='1116' data-id='6'>6</span>, <span class='mundan-finder' data-std='1116' data-id='7'>7</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1116호 ‘리스’ 용어의 정의, 5, 6, 7\n본문\n\n질의\r\n회사는 1년(2025.1.1.~2025.12.31.) 동안 사무실을 임차하는 계약을 체결함. 계약서에 연장에 대한 언급이 없고 법적으로도 연장할 권리가 없어 단기리스 인식 면제 규정을 적용하여 회계처리 함. 이후 2025년 12월 31일에 동일 사무실을 2026년 1",
+    "url": "https://db.kasb.or.kr/qnas/7237"
+  },
+  {
+    "type": "qna",
+    "id": 7238,
+    "docNumber": "SSG-202606001",
+    "date": "2025-12-01T15:00:00.000Z",
+    "title": "비외감 종속기업에 대한 연결면제의 선택과 후속 적용 가능 여부",
+    "relStds": "일반기업회계기준 제5장 ‘회계정책 회계추정의 변경 및 오류’ 문단 <span class='mundan-finder' data-std='5' data-id='5.8'>5.8</span>,&nbsp;<span class='mundan-finder' data-std='5' data-id='5.9'>5.9</span><br />일반기업회계기준 제50장(2022.12.2.) 문단 <span class='mundan-finder' data-std='50' data-id='1'>1</span>,&nbsp;<span class='mundan-finder' data-std='50' data-id='3'>3</span>",
+    "snippet": "관련 회계기준 일반기업회계기준 제5장 ‘회계정책 회계추정의 변경 및 오류’ 문단 5.8,&nbsp;5.9일반기업회계기준 제50장(2022.12.2.) 문단 1,&nbsp;3\n본문\n\n\n질의\n회사의 모든 종속기업은 ‘주식회사 등의 외부감사에 관한 법률’ 제4조와 같은 법 시행령 제5조에 따른 외부감사 대상이 아닌 기업에 해당함. 회사는 ‘시행일 및 경과규정(2",
+    "url": "https://db.kasb.or.kr/qnas/7238"
+  },
+  {
+    "type": "qna",
+    "id": 7228,
+    "docNumber": "2025-I-KQA006",
+    "date": "2025-11-23T15:00:00.000Z",
+    "title": "종속기업투자주식을 교환대상으로 하는 교환사채 발행 시 종속기업투자주식의 회계처리",
+    "relStds": "‘재무보고를 위한 개념체계(2018)’ 문단 <span class='mundan-finder' data-std='1000' data-id='4.51'>4.51</span>,&nbsp;<span class='mundan-finder' data-std='1000' data-id='4.62'>4.62</span>,&nbsp;<span class='mundan-finder' data-std='1000' data-id='SP1.2'>SP1.2</span><br />기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’ 문단 <span class='mundan-finder' data-std='1008' data-id='10'>10</span>,&nbsp;<span class='mundan-finder' data-std='1008' data-id='13'>13</span><br />기업회계기준서 제1016호 ‘유형자산’ 문단 <span class='mundan-finder' data-std='1016' data-id='29'>29</span><br />기업회계기준서 제1027호 ‘별도재무제표’ 문단 <span class='mundan-finder' data-std='1027' data-id='10'>10</span><br />기업회계기준서 제1028호 ‘관계기업과 공동기업에 대한 투자’ 문단 <span class='mundan-finder' data-std='1028' data-id='18'>18</span>,&nbsp;<span class='mundan-finder' data-std='1028' data-id='BC19G'>BC19G</span><br />기업회계기준서 제1038호 ‘무형자산’ 문단 <span class='mundan-finder' data-std='1038' data-id='72'>72</span><br />기업회계기준서 제1109호 ‘금융상품’ 문단 <span class='mundan-finder' data-std='1109' data-id='6.1.1'>6.1.1</span>,&nbsp;<span class='mundan-finder' data-std='1109' data-id='6.2.1'>6.2.1</span>,&nbsp;<span class='mundan-finder' data-std='1109' data-id='6.2.2'>6.2.2</span>,&nbsp;<span class='mundan-finder' data-std='1109' data-id='6.3.1'>6.3.1</span>,&nbsp;<span class='mundan-finder' data-std='1109' data-id='6.3.2'>6.3.2</span>,&nbsp;<span class='mundan-finder' data-std='1109' data-id='B6.2.4'>B6.2.4</span>,&nbsp;<span class='mundan-finder' data-std='1109' data-id='BC6.116'>BC6.116</span>",
+    "snippet": "레퍼런스 [2025-I-KQA006] 종속기업투자주식을 교환대상으로 하는 교환사채 발행 시 종속기업투자주식의 회계처리\n관련 회계기준 ‘재무보고를 위한 개념체계(2018)’ 문단 4.51,&nbsp;4.62,&nbsp;SP1.2기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’ 문단 10,&nbsp;13기업회계기준서 제1016호 ‘유형자산’ 문단",
+    "url": "https://db.kasb.or.kr/qnas/7228"
+  },
+  {
+    "type": "qna",
+    "id": 7230,
+    "docNumber": "SSI-202606003",
+    "date": "2025-10-16T15:00:00.000Z",
+    "title": "원재료 매입과 관련한 정부보조금의 당기손익 인식시기",
+    "relStds": "K-IFRS 제1020호 '정부보조금의 회계처리와 정부지원의 공시' 문단 <span class='mundan-finder' data-std='1020' data-id='3'>3</span>,&nbsp;<span class='mundan-finder' data-std='1020' data-id='12'>12</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1020호 '정부보조금의 회계처리와 정부지원의 공시' 문단 3,&nbsp;12\n본문\n질의\n회사는 장기성 자산에 해당하지 않는 원재료 매입원가의 일부를 보전받는 정부보조금을 수령함. 정부보조금에 부수되는 조건(원재료 매입)을 모두 준수하여, 향후 해당 원재료가 투입되어 생산된 제품의 판매 여부와 관계없이 정부보조금이 환수될 가능성",
+    "url": "https://db.kasb.or.kr/qnas/7230"
+  },
+  {
+    "type": "qna",
+    "id": 7206,
+    "docNumber": "2025-I-KQA004",
+    "date": "2025-10-14T15:00:00.000Z",
+    "title": "부동산신탁사의 정비사업 관련 자금 조달 시 회계처리",
+    "relStds": "기업회계기준서 제1032호 ‘금융상품: 표시’ 문단 <span class='mundan-finder' data-std='1032' data-id='11'>11</span>, <span class='mundan-finder' data-std='1032' data-id='13'>13</span>, <span class='mundan-finder' data-std='1032' data-id='19'>19</span>, <span class='mundan-finder' data-std='1032' data-id='AG12'>AG12</span><br />기업회계기준서 제1109호 ‘금융상품’ 문단 <span class='mundan-finder' data-std='1109' data-id='3.1.1'>3.1.1</span>",
+    "snippet": "레퍼런스 [2025-I-KQA004] 부동산신탁사의 정비사업 관련 자금조달시 회계처리\n관련 회계기준 기업회계기준서 제1032호 ‘금융상품: 표시’ 문단 11, 13, 19, AG12기업회계기준서 제1109호 ‘금융상품’ 문단 3.1.1\n본문\n배경 및 질의\n\n1부동산신탁사(이하 ‘신탁사’)는 도심 내 정비사업 시행자1로서 차입형 신탁 형태로 공공기관의 보증을",
+    "url": "https://db.kasb.or.kr/qnas/7206"
+  },
+  {
+    "type": "qna",
+    "id": 7231,
+    "docNumber": "SSI-202606004",
+    "date": "2025-10-01T15:00:00.000Z",
+    "title": "사채권자의 조기상환청구권 행사로 인한 전환사채 소멸 시 회계처리",
+    "relStds": "K-IFRS 제1032호 '금융상품: 표시' 문단 <span class='mundan-finder' data-std='1032' data-id='31'>31</span>,&nbsp;<span class='mundan-finder' data-std='1032' data-id='&nbsp; AG33'>&nbsp; AG33</span>,&nbsp;<span class='mundan-finder' data-std='1032' data-id='&nbsp; AG34'>&nbsp; AG34</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1032호 '금융상품: 표시' 문단 31,&nbsp;&nbsp; AG33,&nbsp;&nbsp; AG34\n본문\n질의\n회사는 사채권자에게 조기상환청구권이 부여된 전환사채를 발행함. 회사는 사채권자의 조기상환청구권은 경제적 특성과 위험이 주계약과 밀접하게 관련되어 있지 않다고 판단하여 주계약과 분리하였고, 전환권은 자본으로 분류함\n",
+    "url": "https://db.kasb.or.kr/qnas/7231"
+  },
+  {
+    "type": "qna",
+    "id": 7205,
+    "docNumber": "2025-I-KQA003",
+    "date": "2025-09-22T15:00:00.000Z",
+    "title": "교대근무제도 도입에 따른 확정급여채무 변동 효과",
+    "relStds": "기업회계기준서 제1019호 ‘종업원급여’ 문단 <span class='mundan-finder' data-std='1019' data-id='87'>87</span>, <span class='mundan-finder' data-std='1019' data-id='88'>88</span>, <span class='mundan-finder' data-std='1019' data-id='102'>102</span>, <span class='mundan-finder' data-std='1019' data-id='104'>104</span>, <span class='mundan-finder' data-std='1019' data-id='127'>127</span>, <span class='mundan-finder' data-std='1019' data-id='128'>128</span>",
+    "snippet": "레퍼런스 [2025-I-KQA003] 교대근무제도 도입에 따른 확정급여채무 변동효과\n관련 회계기준 기업회계기준서 제1019호 ‘종업원급여’ 문단 87, 88, 102, 104, 127, 128\n본문\n배경 및 질의\n\n1회사는 근로자와 포괄임금계약을 체결하고, 내부 규정과 관련 법령에 따라 퇴직연금제도(확정급여제도)를 운영 중이다. 이에 따른 퇴직급여는 1년 ",
+    "url": "https://db.kasb.or.kr/qnas/7205"
+  },
+  {
+    "type": "qna",
+    "id": 7204,
+    "docNumber": "2025-I-KQA002",
+    "date": "2025-08-10T15:00:00.000Z",
+    "title": "만기 없는 환매금지형 사모펀드 투자 시 회계처리",
+    "relStds": "기업회계기준서 제1032호 ‘금융상품: 표시’ 문단 <span class='mundan-finder' data-std='1032' data-id='11'>11</span>, <span class='mundan-finder' data-std='1032' data-id='16'>16</span>, <span class='mundan-finder' data-std='1032' data-id='19'>19</span>, <span class='mundan-finder' data-std='1032' data-id='25'>25</span><br />기업회계기준서 제1109호 ‘금융상품’ 문단 <span class='mundan-finder' data-std='1109' data-id='5.7.5'>5.7.5</span>",
+    "snippet": "레퍼런스 [2025-I-KQA002] 만기없는 환매금지형 사모펀드 투자시 회계처리\n관련 회계기준 기업회계기준서 제1032호 ‘금융상품: 표시’ 문단 11, 16, 19, 25기업회계기준서 제1109호 ‘금융상품’ 문단 5.7.5\n본문\n배경 및 질의\n\n1집합투자업자인 자산운용사는 「자본시장과 금융투자업에 관한 법률」에 따른 일반 사모집합투자기구(이하 ‘펀드’",
+    "url": "https://db.kasb.or.kr/qnas/7204"
+  },
+  {
+    "type": "qna",
+    "id": 7233,
+    "docNumber": "SSI-202606007",
+    "date": "2025-08-09T15:00:00.000Z",
+    "title": "재화·용역 교환거래의 회계처리",
+    "relStds": "K-IFRS 제1115호 '고객과의 계약에서 생기는 수익' 문단 <span class='mundan-finder' data-std='1115' data-id='9'>9</span>,&nbsp;<span class='mundan-finder' data-std='1115' data-id='31'>31</span>,&nbsp;<span class='mundan-finder' data-std='1115' data-id='BC40'>BC40</span>,&nbsp;<span class='mundan-finder' data-std='1115' data-id='BC41'>BC41</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1115호 '고객과의 계약에서 생기는 수익' 문단 9,&nbsp;31,&nbsp;BC40,&nbsp;BC41\n본문\n\n질의\n광고회사인 A사와 소프트웨어 회사인 B사는 현금을 대가로 지급하는 대신 재화나 용역을 교환하는 계약을 체결함. 이에 따라 A사가 B사에 광고를 제공하고, B사가 A사에 소프트웨어를 제공함\n\nA사는 해당 거래에",
+    "url": "https://db.kasb.or.kr/qnas/7233"
+  },
+  {
+    "type": "qna",
+    "id": 7236,
+    "docNumber": "SSI-202606010",
+    "date": "2025-07-31T15:00:00.000Z",
+    "title": "활성시장의 공시가격이 있는 관계기업투자주식의 공정가치 측정방법",
+    "relStds": "K-IFRS 제1008호 ‘회계정책, 회계추정치 변경과 오류’ 문단 <span class='mundan-finder' data-std='1008' data-id='10'>10</span>, <span class='mundan-finder' data-std='1008' data-id='11'>11</span>, <span class='mundan-finder' data-std='1008' data-id='12'>12</span><br />K-IFRS 제1110호 ‘연결재무제표’ 문단 <span class='mundan-finder' data-std='1110' data-id='25'>25</span><br />K-IFRS 제1113호 ‘공정가치 측정’ 문단 <span class='mundan-finder' data-std='1113' data-id='69'>69</span>, <span class='mundan-finder' data-std='1113' data-id='76'>76</span>, <span class='mundan-finder' data-std='1113' data-id='77'>77</span>, <span class='mundan-finder' data-std='1113' data-id='80'>80</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1008호 ‘회계정책, 회계추정치 변경과 오류’ 문단 10, 11, 12K-IFRS 제1110호 ‘연결재무제표’ 문단 25K-IFRS 제1113호 ‘공정가치 측정’ 문단 69, 76, 77, 80\n본문\n\n질의\r\n회사는 종속기업 A사(상장법인)에 대한 지배력을 상실하였으나 유의적인 영향력을 보유하여 연결재무제표에서 A사 주식을 관",
+    "url": "https://db.kasb.or.kr/qnas/7236"
+  },
+  {
+    "type": "qna",
+    "id": 7226,
+    "docNumber": "SSG-202511002",
+    "date": "2025-07-31T15:00:00.000Z",
+    "title": "퇴직급여충당부채의 측정",
+    "relStds": "일반기업회계기준 제21장 ‘종업원급여’ 문단 <span class='mundan-finder' data-std='21' data-id='21.8'>21.8</span>",
+    "snippet": "관련 회계기준 일반기업회계기준 제21장 ‘종업원급여’ 문단 21.8\n본문\n\n\n질의\n회사는 확정급여제도를 운영 중인데 1년 이상 근무한 퇴직 근로자에게 퇴직 직전 3개월 평균임금에 근속연수를 곱한 금액을 급여로 지급함\n\n보고기간 말 현재 직전 3개월 평균임금이 근로기준법에 따른 통상임금보다 적은 근로자에 대해 일반기업회계기준에 따라 퇴직급여충당부채를 측정할 ",
+    "url": "https://db.kasb.or.kr/qnas/7226"
+  },
+  {
+    "type": "qna",
+    "id": 7227,
+    "docNumber": "202507A",
+    "date": "2025-07-30T15:00:00.000Z",
+    "title": "초인플레이션 경제 여부를 판단하는 지표 평가",
+    "relStds": "기업회계기준서 제1029호 ‘초인플레이션 경제에서의 재무보고’ 문단 <span class='mundan-finder' data-std='1029' data-id='3'>3</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1029호 ‘초인플레이션 경제에서의 재무보고’ 문단 3\n본문\n1. 질의 내용\r\n\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 IAS 29를 적용하여 언제 경제가 초인플레이션 상태가 되는 것으로 식별하는지에 대한 요청서를 받았다. 요청서에서는 다음 사항을 질문하였다.\r\na.언제 경제가 초인플레이션 상태가 되는지를 평가할 ",
+    "url": "https://db.kasb.or.kr/qnas/7227"
+  },
+  {
+    "type": "qna",
+    "id": 7234,
+    "docNumber": "SSI-202606008",
+    "date": "2025-07-22T15:00:00.000Z",
+    "title": "체험용 견본 원가의 비용 분류",
+    "relStds": "K-IFRS 제1115호 '고객과의 계약에서 생기는 수익' 문단 <span class='mundan-finder' data-std='1115' data-id='9'>9</span>,&nbsp;<span class='mundan-finder' data-std='1115' data-id='22'>22</span>,&nbsp;<span class='mundan-finder' data-std='1115' data-id='31'>31</span><br />K-IFRS 제1002호 ‘재고자산’ 문단 <span class='mundan-finder' data-std='1002' data-id='38'>38</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1115호 '고객과의 계약에서 생기는 수익' 문단 9,&nbsp;22,&nbsp;31K-IFRS 제1002호 ‘재고자산’ 문단 38\n본문\n\n질의\nA사는 화장품을 제조하여 고객인 B사에 판매하는데 B사가 운영하는 매장에 비치할 체험용 견본(A사의 재고자산에 해당함)을 A사가 무상으로 제공함\n\n이 경우, A사가 제공하는 체험용 견본",
+    "url": "https://db.kasb.or.kr/qnas/7234"
+  },
+  {
+    "type": "qna",
+    "id": 7235,
+    "docNumber": "SSI-202606009",
+    "date": "2025-07-06T15:00:00.000Z",
+    "title": "수익배분형 투자금의 회계처리",
+    "relStds": "K-IFRS 제1032호 '금융상품: 표시' 문단 <span class='mundan-finder' data-std='1032' data-id='11'>11</span>,&nbsp;<span class='mundan-finder' data-std='1032' data-id='19'>19</span><br />K-IFRS 제1109호 ‘금융상품’ 문단 <span class='mundan-finder' data-std='1109' data-id='4.2.1'>4.2.1</span>,&nbsp;<span class='mundan-finder' data-std='1109' data-id='4.3.1'>4.3.1</span>,&nbsp;<span class='mundan-finder' data-std='1109' data-id='5.1.1'>5.1.1</span>,&nbsp;<span class='mundan-finder' data-std='1109' data-id='5.3.1'>5.3.1</span>,&nbsp;<span class='mundan-finder' data-std='1109' data-id='B5.1.2A'>B5.1.2A</span>,&nbsp;<span class='mundan-finder' data-std='1109' data-id='B5.4.6'>B5.4.6</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1032호 '금융상품: 표시' 문단 11,&nbsp;19K-IFRS 제1109호 ‘금융상품’ 문단 4.2.1,&nbsp;4.3.1,&nbsp;5.1.1,&nbsp;5.3.1,&nbsp;B5.1.2A,&nbsp;B5.4.6\n본문\n\n질의\n회사는 투자자로부터 사업 관련 투자금 10억원(원금)을 받음. 별도 약정 이자 없이 향후 5년간",
+    "url": "https://db.kasb.or.kr/qnas/7235"
+  },
+  {
+    "type": "qna",
+    "id": 7203,
+    "docNumber": "2025-G-KQA001",
+    "date": "2025-06-18T12:00:00.000Z",
+    "title": "조세특례제한법상 양도소득세 이월과세의 회계처리",
+    "relStds": "재무회계개념체계 문단 <span class='mundan-finder' data-std='99' data-id='64'>64</span><br/>일반기업회계기준 제2장 ‘재무제표의 작성과 표시Ⅰ’ 문단 <span class='mundan-finder' data-std='2' data-id='2.82'>2.82⑶</span><br/>일반기업회계기준 제10장 ‘유형자산’ 문단 <span class='mundan-finder' data-std='10' data-id='10.14'>10.14</span>, <span class='mundan-finder' data-std='10' data-id='10.5'>10.5</span><br/>일반기업회계기준 제14장 ‘충당부채 우발부채 우발자산’ 문단 <span class='mundan-finder' data-std='14' data-id='14.3'>14.3</span>, <span class='mundan-finder' data-std='14' data-id='실14.2'>실14.2</span>, <span class='mundan-finder' data-std='14' data-page='용어의 정의'>용어의정의</span><br/>일반기업회계기준 제22장 ‘법인세회계’ 문단 <span class='mundan-finder' data-std='22' data-id='22.2'>22.2</span>",
+    "snippet": "관련 회계기준 재무회계개념체계 문단 64일반기업회계기준 제2장 ‘재무제표의 작성과 표시Ⅰ’ 문단 2.82⑶일반기업회계기준 제10장 ‘유형자산’ 문단 10.14, 10.5일반기업회계기준 제14장 ‘충당부채 우발부채 우발자산’ 문단 14.3, 실14.2, 용어의정의일반기업회계기준 제22장 ‘법인세회계’ 문단 22.2\n본문\n1. 질의현황\n□중소기업이 법인통합 방",
+    "url": "https://db.kasb.or.kr/qnas/7203"
+  },
+  {
+    "type": "qna",
+    "id": 7218,
+    "docNumber": "SSI-202511013",
+    "date": "2025-06-08T15:00:00.000Z",
+    "title": "조기상환청구권이 포함된 사채의 조건변경",
+    "relStds": "K-IFRS 제1109호 ‘금융상품’ 문단 <span class='mundan-finder' data-std='1109' data-id='B3.3.6'>B3.3.6</span>, <span class='mundan-finder' data-std='1109' data-id='용어의 정의'>용어의 정의</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1109호 ‘금융상품’ 문단 B3.3.6, 용어의 정의\n본문\n\n질의\n회사는 조기상환청구권(내재파생상품)이 부여된 사채를 발행하였는데, 조기상환청구권은 경제적 특성과 위험을 고려하여 주계약(사채)에서 분리하여 회계처리하지 않음\n\n사채의 만기는 3년이고, 조기상환청구권은 발행일부터 2년 경과 후 만기까지 행사할 수 있음. 회사는 기",
+    "url": "https://db.kasb.or.kr/qnas/7218"
+  },
+  {
+    "type": "qna",
+    "id": 7213,
+    "docNumber": "SSI-202511007",
+    "date": "2025-06-03T15:00:00.000Z",
+    "title": "종속기업이 관계기업 지분을 보유한 경우의 지분법",
+    "relStds": "K-IFRS 제1028호 ‘관계기업과 공동기업에 대한 투자’ 문단 <span class='mundan-finder' data-std='1028' data-id='18'>18</span>, <span class='mundan-finder' data-std='1028' data-id='19'>19</span>, <span class='mundan-finder' data-std='1028' data-id='27'>27</span><br />K-IFRS 제1110호 ‘연결재무제표’ 문단 <span class='mundan-finder' data-std='1110' data-id='22'>22</span>, <span class='mundan-finder' data-std='1110' data-id='B94'>B94</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1028호 ‘관계기업과 공동기업에 대한 투자’ 문단 18, 19, 27K-IFRS 제1110호 ‘연결재무제표’ 문단 22, B94\n본문\n질의\n기업 A는 종속기업 B의 지분 70%와 관계기업 C의 지분 20%를 보유함. 벤처캐피탈 투자기구 등에 해당하지 않는 종속기업 B는 C의 지분 10%를 보유함\n\n이러한 경우, 기업 A가 작성",
+    "url": "https://db.kasb.or.kr/qnas/7213"
+  },
+  {
+    "type": "qna",
+    "id": 7207,
+    "docNumber": "SSI-202511001",
+    "date": "2025-05-13T15:00:00.000Z",
+    "title": "연결손익계산서에서 비용 표시 방법: 기능별 또는 성격별 분류",
+    "relStds": "K-IFRS 제1001호 ‘재무제표 표시’ 문단 <span class='mundan-finder' data-std='1001' data-id='105'>105</span>, <span class='mundan-finder' data-std='1001' data-id='45'>45</span>, <span class='mundan-finder' data-std='1001' data-id='46'>46</span><br />K-IFRS 제1027호 ‘별도재무제표’ 문단 <span class='mundan-finder' data-std='1027' data-id='4'>4</span>\n",
+    "snippet": "관련 회계기준 K-IFRS 제1001호 ‘재무제표 표시’ 문단 105, 45, 46K-IFRS 제1027호 ‘별도재무제표’ 문단 4\n\n본문\n질의\n지배기업은 별도재무제표에서 성격별 비용 분류에 따라 손익계산서를 작성하고 있음\n\n이 지배기업의 연결재무제표에서는 기능별 비용 분류에 따라 연결손익계산서를 작성할 수 있는지?\n\n회신\n□비용의 기능별 분류 또는 성격별",
+    "url": "https://db.kasb.or.kr/qnas/7207"
+  },
+  {
+    "type": "qna",
+    "id": 7222,
+    "docNumber": "SSI-202511018",
+    "date": "2025-05-08T15:00:00.000Z",
+    "title": "계약체결 증분원가의 인식시기",
+    "relStds": "K-IFRS 제1115호 ‘고객과의 계약에서 생기는 수익’ 문단 <span class='mundan-finder' data-std='1115' data-id='91'>91</span>, <span class='mundan-finder' data-std='1115' data-id='92'>92</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1115호 ‘고객과의 계약에서 생기는 수익’ 문단 91, 92\n본문\n\n질의\n회사는 고객과 계약이 체결된 건에 대하여 계약 체결 후 일정 기간이 경과하면 중개인에게 영업수수료를 지급하기로 함. 이 수수료는 제1115호 ‘고객과의 계약에서 생기는 수익’ 문단 92에 따른 계약체결 증분원가에 해당하고 이를 회수할 것으로 예상함\n\n이 ",
+    "url": "https://db.kasb.or.kr/qnas/7222"
+  },
+  {
+    "type": "qna",
+    "id": 7187,
+    "docNumber": "202504C",
+    "date": "2025-04-29T15:00:00.000Z",
+    "title": "수업료 수익의 인식",
+    "relStds": "K-IFRS 제1115호 '고객과의 계약에서 생기는 수익'",
+    "snippet": "관련 회계기준 K-IFRS 제1115호 '고객과의 계약에서 생기는 수익'\n본문\n1. 질의 내용\r\n\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 교육기관이 수업료 수익을 인식하는 기간에 대한 요청서를 받았다.\r\n\n사실관계\r\n\n요청서에 기술된 사실관계는 다음과 같다.\r\na.학생들은 연중 약 10개월(학년도) 동안 교육기관에 출석하고 약 2개월의 여름방학",
+    "url": "https://db.kasb.or.kr/qnas/7187"
+  },
+  {
+    "type": "qna",
+    "id": 7185,
+    "docNumber": "202504A",
+    "date": "2025-04-28T12:00:00.000Z",
+    "title": "기후 관련 지출에서 생기는 무형자산 인식 (IAS 38)",
+    "relStds": "K-IFRS  제1038호 '무형자산'",
+    "snippet": "관련 회계기준 K-IFRS  제1038호 '무형자산'\n본문\n1. 질의 내용\n\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 기업의 탄소배출권 취득과 연구개발활동 지출이 IAS 38에서 요구하는 무형자산 인식 요구사항을 충족하는지에 대한 요청서를 받았다.\n\n사실관계\n\n요청서에 기술된 사실관계는 다음과 같이 요약된다.\na.기업은 2020년과 2021년에,",
+    "url": "https://db.kasb.or.kr/qnas/7185"
+  },
+  {
+    "type": "qna",
+    "id": 7186,
+    "docNumber": "202504B",
+    "date": "2025-04-27T18:00:00.000Z",
+    "title": "다른 기업의 의무에 대해 발행한 보증",
+    "relStds": "K-IFRS 제1109호 '금융상품'",
+    "snippet": "관련 회계기준 K-IFRS 제1109호 '금융상품'\n본문\n1. 질의 내용\n\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 발행한 보증을 어떻게 회계처리하는지에 대한 요청서를 받았다.\n\n요청서에서는 기업의 별도재무제표상 세 가지 사실관계를 기술하였다. 이 사실관계에서는 기업이 공동기업의 의무에 대한 여러 유형의 계약상 보증을 발행한다. 이 사실관계에는 ",
+    "url": "https://db.kasb.or.kr/qnas/7186"
+  },
+  {
+    "type": "qna",
+    "id": 7195,
+    "docNumber": "SSG-202506001",
+    "date": "2025-04-27T15:00:00.000Z",
+    "title": "할부매출에 대응되는 원가의 인식시기",
+    "relStds": "재무회계개념체계 문단 <span class='mundan-finder' data-std='99' data-id='146'>146</span><br/>일반기업회계기준 제5장 ‘회계정책 회계추정의 변경 및 오류’ 문단 <span class='mundan-finder' data-std='5' data-id='5.4'>5.4</span>, <span class='mundan-finder' data-std='5' data-id='5.5'>5.5</span>, <span class='mundan-finder' data-std='5' data-id='5.6'>5.6</span><br />일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 문단 <span class='mundan-finder' data-std='31' data-id='31.9'>31.9</span>, <span class='mundan-finder' data-std='31' data-id='31.11'>31.11</span>",
+    "snippet": "관련 회계기준 재무회계개념체계 문단 146일반기업회계기준 제5장 ‘회계정책 회계추정의 변경 및 오류’ 문단 5.4, 5.5, 5.6일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 문단 31.9, 31.11\n본문\n질의\r\n일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 문단 31.9를 적용하면 1년 이상의 기간에 걸쳐 이루어지는 할부매출은 할부금회수기일",
+    "url": "https://db.kasb.or.kr/qnas/7195"
+  },
+  {
+    "type": "qna",
+    "id": 7220,
+    "docNumber": "SSI-202511015",
+    "date": "2025-04-22T15:00:00.000Z",
+    "title": "지배기업이 종속기업 전환사채 투자자에게 풋옵션을 부여한 경우, 종속기업의 회계처리",
+    "relStds": "K-IFRS 제1109호 ‘금융상품’ 문단 <span class='mundan-finder' data-std='1109' data-id='3.1.1'>3.1.1</span>, <span class='mundan-finder' data-std='1109' data-id='B5.1.1'>B5.1.1</span>, <span class='mundan-finder' data-std='1109' data-id='B5.1.2A'>B5.1.2A</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1109호 ‘금융상품’ 문단 3.1.1, B5.1.1, B5.1.2A\n본문\n\n질의\n종속기업은 외부 투자자(M)에게 전환사채를 발행함. 지배기업은 전환사채 투자자(M)와의 계약을 통해 지배기업이나 지배기업이 지정하는 자에게 해당 전환사채를 매도할 수 있는 풋옵션을 부여함\n\n종속기업의 재무제표에서 해당 풋옵션의 회계처리는? (지배기",
+    "url": "https://db.kasb.or.kr/qnas/7220"
+  },
+  {
+    "type": "qna",
+    "id": 7210,
+    "docNumber": "SSI-202511004",
+    "date": "2025-04-22T15:00:00.000Z",
+    "title": "전환사채 예상 결제방법이 변경된 경우의 이연법인세 회계처리",
+    "relStds": "K-IFRS 제1012호 ‘법인세’ 문단 <span class='mundan-finder' data-std='1012' data-id='23'>23</span>, <span class='mundan-finder' data-std='1012' data-id='51'>51</span>, <span class='mundan-finder' data-std='1012' data-id='60'>60</span>, <span class='mundan-finder' data-std='1012' data-id='61A'>61A</span>, <span class='mundan-finder' data-std='1012' data-id='62A'>62A</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1012호 ‘법인세’ 문단 23, 51, 60, 61A, 62A\n본문\n\n질의\n회사는 발행한 전환사채의 전환권을 자본으로 분류하였으나 상환될 것으로 예상하여 전환사채 장부금액과 세무기준액 사이의 가산할 일시적차이에 대해 이연법인세부채를 인식하면서 자본요소의 장부금액에 직접 반영하였음(K-IFRS 제1012호 문단 23, 문단 51",
+    "url": "https://db.kasb.or.kr/qnas/7210"
+  },
+  {
+    "type": "qna",
+    "id": 7225,
+    "docNumber": "SSG-202511001",
+    "date": "2025-04-01T15:00:00.000Z",
+    "title": "과점주주가 납부한 취득세",
+    "relStds": "일반기업회계기준 제8장 ‘지분법’ <span class='mundan-finder' data-std='8' data-id='용어의 정의'>용어의 정의</span>, 문단 <span class='mundan-finder' data-std='8' data-id='8.35'>8.35</span><br />일반기업회계기준 제12장 ‘사업결합’ 문단 <span class='mundan-finder' data-std='12' data-id='12.37'>12.37</span>",
+    "snippet": "관련 회계기준 일반기업회계기준 제8장 ‘지분법’ 용어의 정의, 문단 8.35일반기업회계기준 제12장 ‘사업결합’ 문단 12.37\n본문\n\n\n질의\n회사는 A사에 대한 지배력을 취득하면서 지방세법에 따라 취득세를 납부함\n\n연결재무제표에서 취득세를 당기 비용으로 처리하는지 아니면 유형자산 원가에 가산하는지?\n\n개별재무제표에서는 회계처리가 달라지는지?\n\n회신\n□사업",
+    "url": "https://db.kasb.or.kr/qnas/7225"
+  },
+  {
+    "type": "qna",
+    "id": 7224,
+    "docNumber": "SSI-202511020",
+    "date": "2025-03-27T15:00:00.000Z",
+    "title": "판매장려금 인식시기",
+    "relStds": "K-IFRS 제1115호 ‘고객과의 계약에서 발생한 수익’ 문단 <span class='mundan-finder' data-std='1115' data-id='50'>50</span>, <span class='mundan-finder' data-std='1115' data-id='51'>51</span>, <span class='mundan-finder' data-std='1115' data-id='53'>53</span>, <span class='mundan-finder' data-std='1115' data-id='56'>56</span>, <span class='mundan-finder' data-std='1115' data-id='70'>70</span>, <span class='mundan-finder' data-std='1115' data-id='72'>72</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1115호 ‘고객과의 계약에서 발생한 수익’ 문단 50, 51, 53, 56, 70, 72\n본문\n\n질의\n회사는 20X1년에 특정 고객에게 재화를 판매하고, 그 고객이 20X1년 고객의 거래처를 대상으로 정해진 매출 목표를 달성했는지 확인한 후 20X2년에 고객에게 판매장려금을 지급하기로 함\n\n이 판매장려금은 고객이 기업에 이전하",
+    "url": "https://db.kasb.or.kr/qnas/7224"
+  },
+  {
+    "type": "qna",
+    "id": 7223,
+    "docNumber": "SSI-202511019",
+    "date": "2025-03-27T15:00:00.000Z",
+    "title": "수취채권과 계약자산의 구분",
+    "relStds": "K-IFRS 제1115호 ‘고객과의 계약에서 발생한 수익’ 문단 <span class='mundan-finder' data-std='1115' data-id='105'>105</span>, <span class='mundan-finder' data-std='1115' data-id='107'>107</span>, <span class='mundan-finder' data-std='1115' data-id='108'>108</span>, <span class='mundan-finder' data-std='1115' data-id='B10'>B10</span>, <span class='mundan-finder' data-std='1115' data-id='BC322'>BC322</span>, <span class='mundan-finder' data-std='1115' data-id='BC323'>BC323</span>, <span class='mundan-finder' data-std='1115' data-id='BC324'>BC324</span>, <span class='mundan-finder' data-std='1115' data-id='BC325'>BC325</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1115호 ‘고객과의 계약에서 발생한 수익’ 문단 105, 107, 108, B10, BC322, BC323, BC324, BC325\n본문\n\n질의\n회사는 20X1년 7월 1일부터 20X2년 6월 30일까지 웹사이트 이용 서비스를 제공하고, 이용료 1,000만원을 20X2년 6월 30일에 후불로 받기로 하였음. 회사나 고객이 중도",
+    "url": "https://db.kasb.or.kr/qnas/7223"
+  },
+  {
+    "type": "qna",
+    "id": 7211,
+    "docNumber": "SSI-202511005",
+    "date": "2025-03-25T15:00:00.000Z",
+    "title": "종속기업의 미배당이익으로 인한 가산할 일시적차이에 대한 이연법인세부채 인식 여부",
+    "relStds": "K-IFRS 제1012호 ‘법인세’ 문단 <span class='mundan-finder' data-std='1012' data-id='39'>39</span>, <span class='mundan-finder' data-std='1012' data-id='40'>40</span>, <span class='mundan-finder' data-std='1012' data-id='51'>51</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1012호 ‘법인세’ 문단 39, 40, 51\n본문\n\n질의\n회사는 종속기업 X사의 지분 100%를 보유한 지배기업으로, X사의 배당정책을 통제할 수 있음. X사는 매년 당기순이익 금액 내에서 배당하였고, 이러한 배당 정책(연도별 당기순이익 금액 내에서만 배당하고, 미배당이익은 영구적으로 재투자)은 향후에도 유지하기로 결정함\n\n회",
+    "url": "https://db.kasb.or.kr/qnas/7211"
+  },
+  {
+    "type": "qna",
+    "id": 7214,
+    "docNumber": "SSI-202511009",
+    "date": "2025-03-17T15:00:00.000Z",
+    "title": "비지배주주에게 부여한 지분상품 교환 풋옵션의 별도재무제표 회계처리",
+    "relStds": "K-IFRS 제1032호 ‘금융상품: 표시’ 문단 <span class='mundan-finder' data-std='1032' data-id='11'>11</span>, <span class='mundan-finder' data-std='1032' data-id='16'>16</span><br />K-IFRS 제1109호 ‘금융상품’ 문단 <span class='mundan-finder' data-std='1109' data-id='5.1.1'>5.1.1</span>, <span class='mundan-finder' data-std='1109' data-id='4.2.1'>4.2.1</span>, <span class='mundan-finder' data-std='1109' data-id='5.7.1'>5.7.1</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1032호 ‘금융상품: 표시’ 문단 11, 16K-IFRS 제1109호 ‘금융상품’ 문단 5.1.1, 4.2.1, 5.7.1\n본문\n질의\nA사는 종속회사인 B사 지분 60%를 보유하고 있었는데 20X1년 중 B사 지분 40%(120주)를 보유한 비지배주주 C사에 풋옵션을 부여하였음. 풋옵션 행사 가능기간은 20X3년 1년간이고, ",
+    "url": "https://db.kasb.or.kr/qnas/7214"
+  },
+  {
+    "type": "qna",
+    "id": 7215,
+    "docNumber": "SSI-202511010",
+    "date": "2025-03-17T15:00:00.000Z",
+    "title": "비지배주주에게 부여한 지분상품 교환 풋옵션의 연결재무제표 회계처리",
+    "relStds": "K-IFRS 제1032호 ‘금융상품: 표시’ 문단 <span class='mundan-finder' data-std='1032' data-id='16'>16</span>, <span class='mundan-finder' data-std='1032' data-id='BC10'>BC10</span>, <span class='mundan-finder' data-std='1032' data-id='BC13'>BC13</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1032호 ‘금융상품: 표시’ 문단 16, BC10, BC13\n본문\n\n질의\nA사는 종속회사인 B사 지분 60%를 보유하고 있었는데 20X1년 중 B사 지분 40%(120주)를 보유한 비지배주주 C사에 풋옵션을 부여하였음. 풋옵션 행사 가능기간은 20X3년 1년간이고, 해당 풋옵션계약과 관련하여 받은 금액은 없음. 풋옵션이 행사되",
+    "url": "https://db.kasb.or.kr/qnas/7215"
+  },
+  {
+    "type": "qna",
+    "id": 7208,
+    "docNumber": "SSI-202511002",
+    "date": "2025-03-13T15:00:00.000Z",
+    "title": "자본으로 분류되는 영구채에 대한 이연법인세 인식 여부",
+    "relStds": "K-IFRS 제1012호 ‘법인세’ 문단 <span class='mundan-finder' data-std='1012' data-id='5'>5</span>, <span class='mundan-finder' data-std='1012' data-id='8'>8</span>, <span class='mundan-finder' data-std='1012' data-id='15'>15</span><br />K-IFRS 제1008호 ‘회계정책, 회계추정치 변경과 오류’ 문단 <span class='mundan-finder' data-std='1008' data-id='10'>10</span>, <span class='mundan-finder' data-std='1008' data-id='11'>11</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1012호 ‘법인세’ 문단 5, 8, 15K-IFRS 제1008호 ‘회계정책, 회계추정치 변경과 오류’ 문단 10, 11\n본문\n질의\n회사는 당기에 영구채(CU 1,000)를 발행하여 자본으로 회계처리 함. 세무상 영구채는 부채에 해당하므로 자본으로 인식한 영구채에 대해 다음과 같이 세무조정을 함\n\n•회계상 자본에 대해 익금 산입",
+    "url": "https://db.kasb.or.kr/qnas/7208"
+  },
+  {
+    "type": "qna",
+    "id": 7196,
+    "docNumber": "SSG-202506002",
+    "date": "2025-03-13T15:00:00.000Z",
+    "title": "중소기업이 된 회계연도에 특례를 적용하지 않은 경우, 다음 연도부터 적용할 수 있는지",
+    "relStds": "일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 문단 <span class='mundan-finder' data-std='31' data-id='결31.2'>결31.2</span>",
+    "snippet": "관련 회계기준 일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 문단 결31.2\n본문\n질의\r\n회사는 20X2년부터 중소기업에 포함되었으나, 중소기업 회계처리 특례를 적용하지 않기로 결정하고 일반기업회계기준을 적용함\r\n\n이러한 경우, 20X3년부터 중소기업 회계처리 특례를 적용할 수 있는지?\r\n\n회신\r\n□회사가 중소기업이 된 20X2년에 중소기업 특례를 적",
+    "url": "https://db.kasb.or.kr/qnas/7196"
+  },
+  {
+    "type": "qna",
+    "id": 7198,
+    "docNumber": "SSG-202506004",
+    "date": "2025-03-12T15:00:00.000Z",
+    "title": "중소기업 특례 재적용 시, 과거 미적용 항목에도 적용할 수 있는지",
+    "relStds": "일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 문단 <span class='mundan-finder' data-std='31' data-id='결31.1'>결31.1</span>",
+    "snippet": "관련 회계기준 일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 문단 결31.1\n본문\n질의\r\n일반기업회계기준 제31장 ‘중소기업 회계처리 특례’의 이연법인세·지분법 면제 규정을 적용하였다가 중소기업에서 제외된 기업이 다시 중소기업에 해당하여 이 특례를 다시 적용하려고 함\r\n\n이 경우, 파생상품 관련 특례도 적용할 수 있는지? (과거에도 파생상품 거래는 있",
+    "url": "https://db.kasb.or.kr/qnas/7198"
+  },
+  {
+    "type": "qna",
+    "id": 7197,
+    "docNumber": "SSG-202506003",
+    "date": "2025-03-10T15:00:00.000Z",
+    "title": "중소기업 특례 규정의 문단별 적용 중단",
+    "relStds": "일반기업회계기준 제5장 ‘회계정책 회계추정의 변경 및 오류’ 문단 <span class='mundan-finder' data-std='5' data-id='5.9'>5.9</span><br/>일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 문단 <span class='mundan-finder' data-std='31' data-id='31.17'>31.17</span>, <span class='mundan-finder' data-std='31' data-id='결31.2'>결31.2</span>",
+    "snippet": "관련 회계기준 일반기업회계기준 제5장 ‘회계정책 회계추정의 변경 및 오류’ 문단 5.9일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 문단 31.17, 결31.2\n본문\n질의\r\n회사는 중소기업기본법에 따른 중소기업으로 일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 중 지분법 면제, 이연법인세 면제 규정을 적용하고 있음\r\n\n이 경우, 지분법 면제 규정",
+    "url": "https://db.kasb.or.kr/qnas/7197"
+  },
+  {
+    "type": "qna",
+    "id": 7216,
+    "docNumber": "SSI-202511011",
+    "date": "2025-03-09T15:00:00.000Z",
+    "title": "사업부 손상평가 시 회수가능액 측정",
+    "relStds": "K-IFRS 제1036호 ‘자산손상’ 문단 <span class='mundan-finder' data-std='1036' data-id='18'>18</span>, <span class='mundan-finder' data-std='1036' data-id='21'>21</span>, <span class='mundan-finder' data-std='1036' data-id='BCZ21'>BCZ21</span>, <span class='mundan-finder' data-std='1036' data-id='BCZ22'>BCZ22</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1036호 ‘자산손상’ 문단 18, 21, BCZ21, BCZ22\n본문\n\n질의\n회사는 단일 사업부를 현금창출단위로 식별하고 손상검사를 수행하고 있음\n\n경영진이 회사를 청산하거나 경영활동을 중단할 의도가없어도 순공정가치(공정가치–처분부대원가)를 회수가능액으로 사용할 수 있는지?\n\n회신\n□회수가능액은 자산(또는 현금창출단위)의 순공",
+    "url": "https://db.kasb.or.kr/qnas/7216"
+  },
+  {
+    "type": "qna",
+    "id": 7212,
+    "docNumber": "SSI-202511006",
+    "date": "2025-03-05T15:00:00.000Z",
+    "title": "수익 관련 정부보조금 표시방법",
+    "relStds": "K-IFRS 제1008호 ‘회계정책, 회계추정치 변경과 오류’ 문단 <span class='mundan-finder' data-std='1008' data-id='13'>13</span><br />K-IFRS 제1020호 ‘정부보조금의 회계처리와 정부지원의 공시’ 문단 <span class='mundan-finder' data-std='1020' data-id='29'>29</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1008호 ‘회계정책, 회계추정치 변경과 오류’ 문단 13K-IFRS 제1020호 ‘정부보조금의 회계처리와 정부지원의 공시’ 문단 29\n본문\n질의\n회사는 연구개발 활동을 지원하기 위한 수익관련정부보조금을 받아 왔는데 이를 K-IFRS 제1020호 ‘정부보조금’ 문단 29에서 허용하는 방식 중 하나인 ‘기타수익’으로 표시해 왔음\n",
+    "url": "https://db.kasb.or.kr/qnas/7212"
+  },
+  {
+    "type": "qna",
+    "id": 7217,
+    "docNumber": "SSI-202511012",
+    "date": "2025-03-03T15:00:00.000Z",
+    "title": "보고기간 말과 재무제표 발행승인일 사이의 세무조사 결과 통지",
+    "relStds": "K-IFRS 제1037호 ‘충당부채 우발부채 우발자산’ 문단 <span class='mundan-finder' data-std='1037' data-id='14'>14</span>, <span class='mundan-finder' data-std='1037' data-id='28'>28</span>, <span class='mundan-finder' data-std='1037' data-id='33'>33</span>, <span class='mundan-finder' data-std='1037' data-id='86'>86</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1037호 ‘충당부채 우발부채 우발자산’ 문단 14, 28, 33, 86\n본문\n\n질의\n보고기간 중 세무조사가 진행되었고, 보고기간 말과 재무제표 발행승인일 사이에 세무조사 결과로 부가가치세 및 가산세 부과에 대한 납부고지를 받음. 회사는 이에 대해 불복절차를 진행할 예정임\n\n해당 납부고지 금액으로 보고기간 말에 충당부채를 인식해",
+    "url": "https://db.kasb.or.kr/qnas/7217"
+  },
+  {
+    "type": "qna",
+    "id": 7184,
+    "docNumber": "202502A",
+    "date": "2025-02-26T21:00:00.000Z",
+    "title": "'시장가치에 따라 담보가 조정되는(Collateralised-to-Market)' 계약에서의 '변동증거금(Variation Margin Call)'과 관련되는 현금흐름의 분류",
+    "relStds": "K-IFRS 제1007호 '현금흐름표'",
+    "snippet": "관련 회계기준 K-IFRS 제1007호 '현금흐름표'\n본문\n1. 질의 내용\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 사전에 정해진 가격으로 미래 특정 시점에 일반상품을 매입하거나 매도하는 계약에서 발생하는 변동증거금의 지급액과 관련되는 현금흐름을 현금흐름표에 어떻게 표시하는지에 대한 요청서를 받았다.\n\n실제 사례\n요청서에서는 사전에 정해진 가격으",
+    "url": "https://db.kasb.or.kr/qnas/7184"
+  },
+  {
+    "type": "qna",
+    "id": 7209,
+    "docNumber": "SSI-202511003",
+    "date": "2025-02-23T15:00:00.000Z",
+    "title": "전환사채에 대한 이연법인세부채 측정",
+    "relStds": "K-IFRS 제1012호 ‘법인세’ 문단 <span class='mundan-finder' data-std='1012' data-id='15'>15</span>, <span class='mundan-finder' data-std='1012' data-id='23'>23</span>, <span class='mundan-finder' data-std='1012' data-id='47'>47</span>, <span class='mundan-finder' data-std='1012' data-id='51'>51</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1012호 ‘법인세’ 문단 15, 23, 47, 51\n본문\n\n질의\n회사가 전환사채를 발행하며 전환권을 자본으로 분류한 경우, 세무상으로는 전환사채 전액이 부채로 간주되어 가산할 일시적차이가 발생함\n\n이 경우, 해당 가산할 일시적차이에 대한 이연법인세부채를 측정할 때 전환에 대한 예상을 고려해야 하는지?  \n\n회신\n□이연법인세부채",
+    "url": "https://db.kasb.or.kr/qnas/7209"
+  },
+  {
+    "type": "qna",
+    "id": 7221,
+    "docNumber": "SSI-202511016",
+    "date": "2025-02-17T15:00:00.000Z",
+    "title": "연결 내부거래에서 발생한 취득세 회계처리",
+    "relStds": "K-IFRS 제1110호 ‘연결재무제표’ 문단 <span class='mundan-finder' data-std='1110' data-id='B86'>B86</span><br />K-IFRS 제1016호 ‘유형자산’ 문단 <span class='mundan-finder' data-std='1016' data-id='16'>16</span>, <span class='mundan-finder' data-std='1016' data-id='20'>20</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1110호 ‘연결재무제표’ 문단 B86K-IFRS 제1016호 ‘유형자산’ 문단 16, 20\n본문\n\n질의\n종속기업이 손자회사의 유형자산을 취득하여 취득세를 납부한 경우, 지배기업의 연결재무제표에서 이를 어떻게 회계처리하는지?\n\n회신\n□연결재무제표에서 연결실체 내 기업 간 거래와 관련된 취득세는 자산의 재배치 원가로 보아 유형자산",
+    "url": "https://db.kasb.or.kr/qnas/7221"
+  },
+  {
+    "type": "qna",
+    "id": 5377,
+    "docNumber": "SSI-202502001",
+    "date": "2025-02-06T09:00:00.000Z",
+    "title": "통상임금 관련 대법원 판결로 인한 확정급여채무 변동효과",
+    "relStds": null,
+    "snippet": "본문\n질의\n2024년 12월 통상임금의 개념과 판단 기준을 재정립한 대법원의 판결*이 있었음. 회사는 이 판결로 확정급여채무가 변동될 것으로 판단함. 회사가 12월말 법인인 경우, 통상임금 범위 확대로 인한 확정급여채무의 변동효과를 2024년 기말 확정급여채무 산정 시 어떤 항목으로 반영해야 하는지?\n\n*통상임금 요건 중 ‘고정성’을 제외하고, 통상임금을 ",
+    "url": "https://db.kasb.or.kr/qnas/5377"
+  },
+  {
+    "type": "qna",
+    "id": 7219,
+    "docNumber": "SSI-202511014",
+    "date": "2025-01-20T15:00:00.000Z",
+    "title": "옵션이 부여된 지분상품 취득 시 양수자의 회계처리",
+    "relStds": "K-IFRS 제1109호 ‘금융상품’ <span class='mundan-finder' data-std='1109' data-id='용어의 정의'>용어의 정의</span>, 문단 <span class='mundan-finder' data-std='1109' data-id='3.2.15'>3.2.15</span>, <span class='mundan-finder' data-std='1109' data-id='B3.2.4'>B3.2.4</span>, <span class='mundan-finder' data-std='1109' data-id='B3.2.5'>B3.2.5</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1109호 ‘금융상품’ 용어의 정의, 문단 3.2.15, B3.2.4, B3.2.5\n본문\n\n질의\n양도자(C사)는 양수자(A사)에게 B사 주식 500주(지분율 5%)를 양도하면서, B사 주식을 기초자산으로 하는 풋옵션과 콜옵션 계약을 양수자와 체결하였음\n\n다음과 같이 양수자는 풋옵션을 행사하여 양수한 B사 주식의 전부나 일부를 매",
+    "url": "https://db.kasb.or.kr/qnas/7219"
+  },
+  {
+    "type": "qna",
+    "id": 5374,
+    "docNumber": "2024-FSSQA03",
+    "date": "2024-12-25T21:00:00.000Z",
+    "title": "직접참가특성이 없는 금리연동형 보험계약의 공시이율예실차 회계처리",
+    "relStds": "기업회계기준서 제1117호 「보험계약」 문단 <span class='mundan-finder' data-std='1117' data-id='87'>87</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='87A'>87A</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='88'>88</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='90'>90</span>,&nbsp;용어의 정의(기초항목),&nbsp;<span class='mundan-finder' data-std='1117' data-id='B97'>B97</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='B128'>B128</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='B129'>B129</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='B130'>B130</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='B132'>B132</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='IE165'>IE165</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='IE172'>IE172</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='BC342'>BC342</span><br />기업회계기준서 제1008호 「회계정책, 회계추정치 변경과 오류」 문단 <span class='mundan-finder' data-std='1008' data-id='13'>13</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1117호 「보험계약」 문단 87,&nbsp;87A,&nbsp;88,&nbsp;90,&nbsp;용어의 정의(기초항목),&nbsp;B97,&nbsp;B128,&nbsp;B129,&nbsp;B130,&nbsp;B132,&nbsp;IE165,&nbsp;IE172,&nbsp;BC342기업회계기준서 제1008호 「회계정책, 회계추정치 ",
+    "url": "https://db.kasb.or.kr/qnas/5374"
+  },
+  {
+    "type": "qna",
+    "id": 5361,
+    "docNumber": "2024-I-KQA020",
+    "date": "2024-12-18T15:00:00.000Z",
+    "title": "종속기업이 지배기업의 종업원에게 종속기업의 주식선택권을 부여한 경우의 회계처리",
+    "relStds": "기업회계기준서 제1102호 ‘주식기준보상’ 문단 <span class='mundan-finder' data-std='1102' data-id='3A'>3A</span>,&nbsp;<span class='mundan-finder' data-std='1102' data-id='7'>7</span>,&nbsp;<span class='mundan-finder' data-std='1102' data-id='8'>8</span>,&nbsp;<span class='mundan-finder' data-std='1102' data-id='15'>15</span>,&nbsp;<span class='mundan-finder' data-std='1102' data-id='43B'>43B</span>,&nbsp;<span class='mundan-finder' data-std='1102' data-id='43C'>43C</span>,&nbsp;<span class='mundan-finder' data-std='1102' data-id='B45'>B45</span>,&nbsp;<span class='page-finder' data-std='1102' data-id='#PAGE#'>용어의 정의</span>,&nbsp;<span class='mundan-finder' data-std='1102' data-id='IG22A'>IG22A</span><br />기업회계기준서 제1103호 ‘사업결합’ 문단 <span class='mundan-finder' data-std='1103' data-id='B62B'>B62B</span><br />기업회계기준서 제1109호 ‘금융상품’ <span class='page-finder' data-std='1109' data-page='#PAGE#'>용어의 정의</span><br />기업회계기준서 제1110호 ‘연결재무제표’ <span class='page-finder' data-std='1110' data-page='#PAGE#'>용어의 정의</span><br />기업회계기준서 제1001호 ‘재무제표 표시’ 문단 <span class='mundan-finder' data-std='1001' data-id='109'>109</span><br />기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류' 문단 <span class='mundan-finder' data-std='1008' data-id='10'>10</span>,&nbsp;<span class='mundan-finder' data-std='1008' data-id='11'>11</span>,&nbsp;<span class='mundan-finder' data-std='1008' data-id='12'>12</span><br />기업회계기준서 제1027호 ‘별도재무제표’ 문단 <span class='mundan-finder' data-std='1027' data-id='12'>12</span>,&nbsp;<span class='mundan-finder' data-std='1027' data-id='BC17'>BC17</span>",
+    "snippet": "레퍼런스 [2024-I-KQA020] 자회사 스톡옵션 발행에 대한 회계처리\n관련 회계기준 기업회계기준서 제1102호 ‘주식기준보상’ 문단 3A,&nbsp;7,&nbsp;8,&nbsp;15,&nbsp;43B,&nbsp;43C,&nbsp;B45,&nbsp;용어의 정의,&nbsp;IG22A기업회계기준서 제1103호 ‘사업결합’ 문단 B62B기업회계기준서 제110",
+    "url": "https://db.kasb.or.kr/qnas/5361"
+  },
+  {
+    "type": "qna",
+    "id": 7193,
+    "docNumber": "SSI-202506007",
+    "date": "2024-12-18T06:00:00.000Z",
+    "title": "보통주를 상환전환우선주로 변경하는 경우, 발행자의 회계처리",
+    "relStds": "K-IFRS 제1032호 ‘금융상품:표시’ 문단 <span class='mundan-finder' data-std='1032' data-id='33'>33</span>,<br/>K-IFRS 제1109호 ‘금융상품’ 문단 <span class='mundan-finder' data-std='1109' data-id='5.1.1'>5.1.1</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1032호 ‘금융상품:표시’ 문단 33,K-IFRS 제1109호 ‘금융상품’ 문단 5.1.1\n본문\n질의\n회사는 주주 전원의 동의로 계약조건을 변경하여 발행된 보통주 일부를 상환전환우선주로 변경함(이 변경은 법적으로 유효한 변경임). 변경된 상환전환우선주는 K-IFRS 제1032호에 따라 전체를 금융부채로 분류함\n\n조건 변경에 따",
+    "url": "https://db.kasb.or.kr/qnas/7193"
+  },
+  {
+    "type": "qna",
+    "id": 7192,
+    "docNumber": "SSI-202506006",
+    "date": "2024-12-17T06:00:00.000Z",
+    "title": "연결재무제표에서 지배기업이 인수하지 않은 전환사채 전환권의 표시",
+    "relStds": "K-IFRS 제1110호 ‘연결재무제표’ <span class='page-finder' data-std='1110' data-page='용어의 정의'>용어의정의</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1110호 ‘연결재무제표’ 용어의정의\n본문\n질의\n지배기업과 그 연결실체는 종속기업이 발행한 전환사채를 인수하지 않았음\n\n이 경우, 자본으로 분류되는 전환권을 전환사채 발행시점에 지배기업의 연결재무제표에 지배지분과 비지배지분으로 어떻게 분류해야 하는지?\n\n회신\n□전환사채 발행시점에 지배기업이 인수하지 않은 전환사채의 전환권은 지배",
+    "url": "https://db.kasb.or.kr/qnas/7192"
+  },
+  {
+    "type": "qna",
+    "id": 7191,
+    "docNumber": "SSI-202506005",
+    "date": "2024-12-17T06:00:00.000Z",
+    "title": "연결재무제표에서 종속기업 주식선택권의 표시",
+    "relStds": "K-IFRS 제1110호 ‘연결재무제표’ 문단 <span class='mundan-finder' data-std='1110' data-id='B90'>B90</span>, <span class='mundan-finder' data-std='1110' data-id='B94'>B94</span>, <span class='mundan-finder' data-std='1110' data-page='용어의 정의'>용어의정의</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1110호 ‘연결재무제표’ 문단 B90, B94, 용어의정의\n본문\n질의\n종속기업이 주식결제형 주식기준보상을 종속기업의 임직원에게 부여하고, 가득기간 중 주식선택권을 자본으로 표시하였음\n\n해당 주식선택권은 지배기업의 연결재무제표에서 지배지분과 비지배지분에 어떻게 배분해야 하는지?\n\n회신\n□종속기업의 임직원이 가득 중인 주식선택권이",
+    "url": "https://db.kasb.or.kr/qnas/7191"
+  },
+  {
+    "type": "qna",
+    "id": 5323,
+    "docNumber": "2024-G-KQA005",
+    "date": "2024-12-03T15:00:00.000Z",
+    "title": "제31장 중소기업 회계처리 특례 적용범위 판단 시 오류수정 회계처리 가능 여부",
+    "relStds": "일반기업회계기준 제5장 '회계정책 회계추정의 변경 및 오류' 문단 <span class='mundan-finder' data-std='5' data-id='실5.8'>실5.8</span><br />일반기업회계기준 제31장 '중소기업 회계처리 특례' 문단 <span class='mundan-finder' data-std='31' data-id='31.1'>31.1</span>,&nbsp;<span class='mundan-finder' data-std='31' data-id='결31.1'>결31.1</span>",
+    "snippet": "관련 회계기준 일반기업회계기준 제5장 '회계정책 회계추정의 변경 및 오류' 문단 실5.8일반기업회계기준 제31장 '중소기업 회계처리 특례' 문단 31.1, 결31.1 본문 1. 질의현황\n  □ (현황) 지배회사는 지주회사업을 목적으로 ‘23년 설립되었으며, 설립직후 종속회사 2개를 100% 취득하였으며, 해당 종속기업은 모두 매출액 200억원 미만의 소규모",
+    "url": "https://db.kasb.or.kr/qnas/5323"
+  },
+  {
+    "type": "qna",
+    "id": 7190,
+    "docNumber": "SSI-202506004",
+    "date": "2024-11-28T06:00:00.000Z",
+    "title": "정부보조금 수령 시 원가기준 투입법의 진행률 산정",
+    "relStds": "K-IFRS 제1115호 ‘고객과의 계약에서 발생한 수익’ 문단 <span class='mundan-finder' data-std='1115' data-id='39'>39</span>, <span class='mundan-finder' data-std='1115' data-id='B18'>B18</span>, <span class='mundan-finder' data-std='1115' data-id='B19'>B19</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1115호 ‘고객과의 계약에서 발생한 수익’ 문단 39, B18, B19\n본문\n질의\n회사는 용역 제공에 드는 인건비에 대해 정부보조금을 지원받아 그 인건비가 비용으로 인식되는 기간에 해당 비용에서 정부보조금을 차감하는 회계처리를 함\n\n이러한 상황에서 인건비를 포함한 원가기준 투입법이 회사의 수행 정도를 잘 나타내는 경우, 진행률",
+    "url": "https://db.kasb.or.kr/qnas/7190"
+  },
+  {
+    "type": "qna",
+    "id": 5372,
+    "docNumber": "2024-001",
+    "date": "2024-11-27T15:00:00.000Z",
+    "title": "단일 차주의 대출채권만 펀드에 양도한 경우 회계처리",
+    "relStds": null,
+    "snippet": "본문\n현 황\r\n\n□A 저축은행 등 9사는 시행사 B에 대한 대출채권을 C 펀드에 매각*한 금액과 동일한 금액으로 동 펀드의 2종 수익증권을 취득\r\n\n*A 저축은행 등 12사는 대주단을 구성하여 시행사 B에 대해 대출을 하였으나, C 펀드에 매각한 저축은행은 A 저축은행 등 9사임(3사 미참여)\r\n\n◆ 주요 계약 내용\r\n\n□(펀드 조성) PF 채권 양도 이후",
+    "url": "https://db.kasb.or.kr/qnas/5372"
+  },
+  {
+    "type": "qna",
+    "id": 5373,
+    "docNumber": "2024-002",
+    "date": "2024-11-27T15:00:00.000Z",
+    "title": "일정기간 양수인의 대출채권 매각이 특정 방법만 가능한 경우 회계처리",
+    "relStds": null,
+    "snippet": "본문\n현 황\r\n\n□A·B 저축은행은 펀드에 투자하면서, 다수의 차주로 구성된 PF 대출채권을 매각 당시 공정가치보다 높은 가격에 양도 \r\n\n◦양수인인 펀드는 설정일로부터 18개월 동안 손실을 보지 않는 범위에서 시장 매각 방식만 가능하며, \r\n\n◦이후 18개월 경과 시점부터 시장 매각 외 경매 및 공매도 가능\r\n\n[거래 구조도]\r\n\r\n질의 요약\r\n\n□A·B",
+    "url": "https://db.kasb.or.kr/qnas/5373"
+  },
+  {
+    "type": "qna",
+    "id": 5319,
+    "docNumber": "2024-I-KQA019",
+    "date": "2024-11-11T15:00:00.000Z",
+    "title": "사업결합으로 연결재무제표에 이연법인세부채 인식 시 피취득자 결손금에 대한 이연법인세자산 인식 여부",
+    "relStds": "기업회계기준서 제1012호 ‘법인세’ 문단 <span class='mundan-finder' data-std='1012' data-id='24'>24</span>,&nbsp;<span class='mundan-finder' data-std='1012' data-id='28~29'>28~29</span>,&nbsp;<span class='mundan-finder' data-std='1012' data-id='34~36'>34~36</span>",
+    "snippet": "레퍼런스 [2024-I-KQA019] 사업결합으로 연결재무제표에 이연법인세부채 인식 시 피취득자 결손금에 대한 이연법인세자산 인식 여부\n관련 회계기준 기업회계기준서 제1012호 ‘법인세’ 문단 24,&nbsp;28~29,&nbsp;34~36\n본문\n &#xbc30;&#xacbd; &#xbc0f; &#xc9c8;&#xc758;\r\n\n1A&#xc0ac;(&#xad",
+    "url": "https://db.kasb.or.kr/qnas/5319"
+  },
+  {
+    "type": "qna",
+    "id": 7194,
+    "docNumber": "SSI-202506008",
+    "date": "2024-11-11T06:00:00.000Z",
+    "title": "현금흐름표에서 사업결합 시 용역수수료의 분류",
+    "relStds": "K-IFRS 제1007호 ‘현금흐름표’ 문단 <span class='mundan-finder' data-std='1007' data-id='16'>16</span>, <span class='mundan-finder' data-std='1007' data-id='39'>39</span>, <span class='mundan-finder' data-std='1007' data-page='용어의 정의'>용어의정의</span><br/>K-IFRS 제1103호 ‘사업결합’ 문단 <span class='mundan-finder' data-std='1103' data-id='53'>53</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1007호 ‘현금흐름표’ 문단 16, 39, 용어의정의K-IFRS 제1103호 ‘사업결합’ 문단 53\n본문\n질의\n회사는 사업결합 시 이전대가를 산정하기 위해 외부평가기관을 통해 가치평가를 수행하였고, 그 용역수수료를 당기비용으로 인식함\n\n이 경우, 해당 용역수수료에 대한 현금흐름을 영업활동으로 분류하는지, 아니면 투자활동으로 분",
+    "url": "https://db.kasb.or.kr/qnas/7194"
+  },
+  {
+    "type": "qna",
+    "id": 7189,
+    "docNumber": "SSI-202506003",
+    "date": "2024-11-03T18:00:00.000Z",
+    "title": "계속영업부문과 중단영업부문의 내부거래 채권·채무 제거 여부",
+    "relStds": "K-IFRS 제1001호 ‘재무제표 표시’ 문단 <span class='mundan-finder' data-std='1001' data-id='82'>82</span><br />K-IFRS 제1105호 ‘매각예정비유동자산과 중단영업’ 문단 <span class='mundan-finder' data-std='1105' data-id='30'>30</span><br />K-IFRS 제1110호 ‘연결재무제표’ 문단 <span class='mundan-finder' data-std='1110' data-id='B86'>B86</span><br />IFRS 해석위원회 논의 결과 (2016.01)",
+    "snippet": "관련 회계기준 K-IFRS 제1001호 ‘재무제표 표시’ 문단 82K-IFRS 제1105호 ‘매각예정비유동자산과 중단영업’ 문단 30K-IFRS 제1110호 ‘연결재무제표’ 문단 B86IFRS 해석위원회 논의 결과 (2016.01)\n본문\n질의\n연결실체는 계속영업부문과 매각 예정의 단일 종속기업인 중단영업부문으로 구성되는데 해당 중단영업부문의 자산과 부채는 ",
+    "url": "https://db.kasb.or.kr/qnas/7189"
+  },
+  {
+    "type": "qna",
+    "id": 5322,
+    "docNumber": "2024-I-KQA018",
+    "date": "2024-10-20T15:00:00.000Z",
+    "title": "피투자회사 지분에 대한 매입선도계약 보유 중 지배력 획득 시 회계처리",
+    "relStds": "<span class='std-finder' data-std='1032'>기업회계기준서&nbsp;제1032호</span> ‘금융상품: 표시’ 문단 <span class='mundan-finder' data-std='1032' data-id='22'>22</span>,&nbsp;<span class='mundan-finder' data-std='1032' data-id='23'>23</span>,&nbsp;<span class='mundan-finder' data-std='1032' data-id='33'>33</span>,&nbsp;<span class='mundan-finder' data-std='1032' data-id='BC11'>BC11</span>",
+    "snippet": "레퍼런스 [2024-I-KQA018] 피투자회사 지분에 대한 매입선도계약 보유중 지배력 획득 시 회계처리\n관련 회계기준 기업회계기준서&nbsp;제1032호 ‘금융상품: 표시’ 문단 22,&nbsp;23,&nbsp;33,&nbsp;BC11\n본문\n&#xBC30;&#xACBD; &#xBC0F; &#xC9C8;&#xC758;\n\n1&#xD68C;&#xC0AC;&#x",
+    "url": "https://db.kasb.or.kr/qnas/5322"
+  },
+  {
+    "type": "qna",
+    "id": 7201,
+    "docNumber": "SSG-202506007",
+    "date": "2024-10-13T15:00:00.000Z",
+    "title": "중소기업 특례 지분법 면제 규정의 투자자산별 적용 가능 여부",
+    "relStds": "일반기업회계기준 제5장 ‘회계정책 회계추정의 변경 및 오류’ 문단 <span class='mundan-finder' data-std='5' data-id='5.8'>5.8</span><br/>일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 문단 <span class='mundan-finder' data-std='31' data-id='31.6'>31.6</span>",
+    "snippet": "관련 회계기준 일반기업회계기준 제5장 ‘회계정책 회계추정의 변경 및 오류’ 문단 5.8일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 문단 31.6\n본문\n질의\r\n중소기업기본법에 따른 중소기업이 일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 문단 31.6 지분법 면제 규정을 적용하는 경우, 관계기업 투자자산 A, B 중 투자자산 A에만 해당 면제 규",
+    "url": "https://db.kasb.or.kr/qnas/7201"
+  },
+  {
+    "type": "qna",
+    "id": 7188,
+    "docNumber": "SSI-202506002",
+    "date": "2024-09-25T21:00:00.000Z",
+    "title": "연결재무제표에서 종속기업의 차입원가 자본화 대상 차입금",
+    "relStds": "K-IFRS 제23호 ‘차입원가’ 문단 <span class='mundan-finder' data-std='1023' data-id='10'>10</span>, <span class='mundan-finder' data-std='1023' data-id='11'>11</span>, <span class='mundan-finder' data-std='1023' data-id='14'>14</span>, <span class='mundan-finder' data-std='1023' data-id='15'>15</span>, <span class='mundan-finder' data-std='1023' data-id='BC14C'>BC14C</span>, <span class='mundan-finder' data-std='1023' data-id='BC14E'>BC14E</span>",
+    "snippet": "관련 회계기준 K-IFRS 제23호 ‘차입원가’ 문단 10, 11, 14, 15, BC14C, BC14E\n본문\n질의\n지배기업 A와 종속기업 B, C는 운영자금으로 사용할 목적으로 금융기관에서 각각 CU200, CU100, CU50을 차입하였음. 당기 중 C사는 적격자산을 취득하여 지출이 발생함\n\nA사의 연결재무제표에서 C사의 적격자산 취득 관련 차입원가 자",
+    "url": "https://db.kasb.or.kr/qnas/7188"
+  },
+  {
+    "type": "qna",
+    "id": 5320,
+    "docNumber": "2024-I-KQA017",
+    "date": "2024-09-22T15:00:00.000Z",
+    "title": "[별도재무제표] 단계적 취득으로 인식한 종속기업투자주식 원가",
+    "relStds": "기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’ 문단&nbsp;<span class='mundan-finder' data-std='1008' data-id='10~12'>10~12</span><br />기업회계기준서 제1027호 ‘별도재무제표’ 문단 <span class='mundan-finder' data-std='1027' data-id='10'>10</span>,&nbsp;<span class='mundan-finder' data-std='1027' data-id='BC10'>BC10</span><br />기업회계기준서 제1028호 ‘관계기업과 공동기업에 대한 투자’ 문단 <span class='mundan-finder' data-std='1028' data-id='24'>24</span><br />기업회계기준서 제1040호 ‘투자부동산’ 문단 <span class='mundan-finder' data-std='1040' data-id='59'>59</span><br />재무보고의 작성과 표시를 위한 제1000호(2018) 문단 <span class='mundan-finder' data-std='1000' data-id='6.5'>6.5</span>",
+    "snippet": "레퍼런스 [2024-I-KQA017] 별도재무제표에서 단계적 취득으로 인식한 종속기업투자주식 원가의 결정방법\n관련 회계기준 기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류’ 문단&nbsp;10~12기업회계기준서 제1027호 ‘별도재무제표’ 문단 10,&nbsp;BC10기업회계기준서 제1028호 ‘관계기업과 공동기업에 대한 투자’ 문단 24기업",
+    "url": "https://db.kasb.or.kr/qnas/5320"
+  },
+  {
+    "type": "qna",
+    "id": 7200,
+    "docNumber": "SSG-202506006",
+    "date": "2024-09-10T15:00:00.000Z",
+    "title": "중소기업 여부 변경 시 비교재무제표를 재작성해야 하는지",
+    "relStds": "일반기업회계기준 제5장 ‘회계정책 회계추정의 변경 및 오류’ 문단 <span class='mundan-finder' data-std='5' data-id='5.7'>5.7</span>, <span class='mundan-finder' data-std='5' data-id='5.9'>5.9</span>, <span class='mundan-finder' data-std='5' data-id='5.11'>5.11</span>, <span class='mundan-finder' data-std='5' data-id='5.12'>5.12</span>, <span class='mundan-finder' data-std='5' data-id='실5.3'>실5.3</span>,<br/>일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 문단 <span class='mundan-finder' data-std='31' data-id='31.17'>31.17</span>",
+    "snippet": "관련 회계기준 일반기업회계기준 제5장 ‘회계정책 회계추정의 변경 및 오류’ 문단 5.7, 5.9, 5.11, 5.12, 실5.3,일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 문단 31.17\n본문\n질의\r\n일반기업회계기준 제31장 ‘중소기업 회계처리 특례’를 적용하였다가 중소기업에서 제외된 기업이 다시 중소기업에 해당하여여 당기 재무제표에는 이 특례를 ",
+    "url": "https://db.kasb.or.kr/qnas/7200"
+  },
+  {
+    "type": "qna",
+    "id": 7168,
+    "docNumber": "SSI-202503007",
+    "date": "2024-07-31T15:00:00.000Z",
+    "title": "주가수익스왑(PRS) 방식의 주식 양수도 시 양수자의 회계처리",
+    "relStds": "K-IFRS 제1109호 '금융상품' 문단 <span class='mundan-finder' data-std='1109' data-id='2.1'>2.1</span>,&nbsp;<span class='mundan-finder' data-std='1109' data-id='3.2.6'>3.2.6</span>,&nbsp;<span class='mundan-finder' data-std='1109' data-id='B3.2.15'>B3.2.15</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1109호 '금융상품' 문단 2.1,&nbsp;3.2.6,&nbsp;B3.2.15\n본문\n질의\nA사(양도자)는 K-IFRS 제1109호 ‘금융상품’을 적용하는 B사 주식(지분상품)을 C사에 매각하면서 동시에 B사 주식에 대해 주가수익스왑 계약(이하 ‘PRS*’)을 체결함* PRS(Price Return Swap): B사 주식의 시",
+    "url": "https://db.kasb.or.kr/qnas/7168"
+  },
+  {
+    "type": "qna",
+    "id": 5321,
+    "docNumber": "202407A",
+    "date": "2024-07-30T15:00:00.000Z",
+    "title": "보고부문에 대한 수익과 비용 공시",
+    "relStds": "기업회계기준서 제1108호 '영업부문' 문단 <span class='mundan-finder' data-std='1108' data-id='23'>23</span><br />기업회계기준서 제1001호 '재무제표 표시' 문단 <span class='mundan-finder' data-std='1001' data-id='7'>7</span>,&nbsp;<span class='mundan-finder' data-std='1001' data-id='30'>30</span>,&nbsp;<span class='mundan-finder' data-std='1001' data-id='30A'>30A</span>,&nbsp;<span class='mundan-finder' data-std='1001' data-id='31'>31</span>,&nbsp;<span class='mundan-finder' data-std='1001' data-id='97'>97</span>,&nbsp;<span class='mundan-finder' data-std='1001' data-id='98'>98</span><br />",
+    "snippet": "관련 회계기준 기업회계기준서 제1108호 '영업부문' 문단 23기업회계기준서 제1001호 '재무제표 표시' 문단 7, 30, 30A, 31, 97, 98 본문 1. 질의 내용\\n  국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 부문당기손익에 관련되는 규정된 금액을 보고부문별로 공시하도록 하는 IFRS 8 문단 23의 요구사항을 어떻게 적용하는지에 대한",
+    "url": "https://db.kasb.or.kr/qnas/5321"
+  },
+  {
+    "type": "qna",
+    "id": 7167,
+    "docNumber": "SSI-202503006",
+    "date": "2024-07-24T15:00:00.000Z",
+    "title": "제삼자 지정 가능 콜옵션이 부여된 전환사채에 내재된 풋옵션 분리 여부",
+    "relStds": "K-IFRS 제1109호 '금융상품' <span class='page-finder' data-std='1109' data-page='용어의 정의'>용어의 정의</span>,&nbsp;문단 <span class='mundan-finder' data-std='1109' data-id='B4.3.5'>B4.3.5</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1109호 '금융상품' 용어의 정의,&nbsp;문단 B4.3.5\n본문\n질의\r\n회사는 제삼자 지정 가능 매도청구권(이하 ‘콜옵션’)과 투자자의 조기상환청구권(이하 ‘풋옵션’)이 부여된 전환사채를 발행하였음전환사채와 독립적으로 양도 가능한 콜옵션을 K-IFRS 제1109호 문단 4.3.1에 따라 별도의 금융상품(파생자산)으로 인식한",
+    "url": "https://db.kasb.or.kr/qnas/7167"
+  },
+  {
+    "type": "qna",
+    "id": 7202,
+    "docNumber": "SSI-202506001",
+    "date": "2024-07-17T06:00:00.000Z",
+    "title": "전환사채에 부여된 매도청구권의 유동성 분류",
+    "relStds": "K-IFRS 제1001호 ‘재무제표 표시’ 문단 <span class='mundan-finder' data-std='1001' data-id='66'>66</span>, <span class='mundan-finder' data-std='1001' data-id='69'>69</span>, <span class='mundan-finder' data-std='1001' data-id='BC38J'>BC38J</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1001호 ‘재무제표 표시’ 문단 66, 69, BC38J\n본문\n질의\n회사는 20X1년 초에 전환사채를 발행하였는데 해당 계약에는 사채권자의 조기상환청구권(풋옵션)과 전환권, 발행회사의 매도청구권(회사나 회사가 지정하는 제삼자가 전환사채의 전부나 일부를 매입할 수 있는 콜옵션*)이 포함됨\n*전환사채 등과 독립적으로 제삼자 지정 ",
+    "url": "https://db.kasb.or.kr/qnas/7202"
+  },
+  {
+    "type": "qna",
+    "id": 5310,
+    "docNumber": "2024-FSSQA01",
+    "date": "2024-06-30T15:00:00.000Z",
+    "title": "고정금리 원화채권의 무위험이자율요소만을 위험회피대상항목으로 지정 가능한지 여부",
+    "relStds": "K-IFRS <span class='mundan-finder' data-std='1109' data-id='제1109호'>제1109호</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1109호\n본문\n## 1. 현황\n\n□ A은행은 기존에는 장·내외 거래로 취득·보유 중인 고정금리 원화채권*의 이자율 변동위험을 헷지하고자 이자율스왑(IRS, Interest Rate Swap)을 위험회피수단으로 지정하고\n\n    * 일반적인 형태의 원금과 이자로만 구성된 고정금리부 채권(은행채, 여전채 등 금융채, 공사채 등 특",
+    "url": "https://db.kasb.or.kr/qnas/5310"
+  },
+  {
+    "type": "qna",
+    "id": 5304,
+    "docNumber": "2024-I-KQA011",
+    "date": "2024-06-29T15:00:00.000Z",
+    "title": "비금융위험에 대한 위험조정(RA) 변동의 회계처리",
+    "relStds": "기업회계기준서 제1117호 ‘보험계약’ 문단 <span class='mundan-finder' data-std='1117' data-id='41'>41</span>, <span class='mundan-finder' data-std='1117' data-id='80'>80</span>, <span class='mundan-finder' data-std='1117' data-page='#PAGE_URL#'>A. 용어의 정의</span>, <span class='mundan-finder' data-std='1117' data-id='B72'>B72⑶</span>, <span class='mundan-finder' data-std='1117' data-id='B86'>B86</span>, <span class='mundan-finder' data-std='1117' data-id='B96'>B96⑷</span>, <span class='mundan-finder' data-std='1117' data-id='B97'>B97⑴</span>",
+    "snippet": "레퍼런스 [2024-I-KQA011] 비금융위험에 대한 위험조정(RA) 변동의 회계처리\n관련 회계기준 기업회계기준서 제1117호 ‘보험계약’ 문단 41,80,A. 용어의 정의,B72⑶,B86,B96⑷,B97⑴\n본문\n## 배경 및 질의\n\n% 1 기업회계기준서 제1117호 ‘보험계약’ 문단 B96⑷1에 따르면, 미래 서비스 관련 비금융위험에 대한 위험조정의 변",
+    "url": "https://db.kasb.or.kr/qnas/5304"
+  },
+  {
+    "type": "qna",
+    "id": 5303,
+    "docNumber": "2024-I-KQA012",
+    "date": "2024-06-29T15:00:00.000Z",
+    "title": "변액연금 계약에 대해 변동수수료접근법(VFA) 적용 시 회계처리",
+    "relStds": "기업회계기준서 제1117호 ‘보험계약’ 문단 <span class='mundan-finder' data-std='1117' data-id='45'>45</span>, <span class='mundan-finder' data-std='1117' data-id='72'>72</span>, <span class='mundan-finder' data-std='1117' data-id='#PAGE#'>용어의 정의</span>, <span class='mundan-finder' data-std='1117' data-id='B101'>B101</span>, <span class='mundan-finder' data-std='1117' data-id='B102'>B102</span>, <span class='mundan-finder' data-std='1117' data-id='B104~B108'>B104~B108</span>, <span class='mundan-finder' data-std='1117' data-id='B110~B114'>B110~B114</span>, <span class='mundan-finder' data-std='1117' data-id='BC245'>BC245</span>",
+    "snippet": "레퍼런스 [2024-I-KQA012] 변액연금 계약에 대한 VFA모형 적용 시 회계처리\n관련 회계기준 기업회계기준서 제1117호 ‘보험계약’ 문단 45,72,용어의 정의,B101,B102,B104~B108,B110~B114,BC245\n본문\n## 배경 및 질의\n\n% 1 회사는 다음과 같이 2개의 보험기간으로 구분되는 변액연금 보험계약을 판매한다.보험계약 구성",
+    "url": "https://db.kasb.or.kr/qnas/5303"
+  },
+  {
+    "type": "qna",
+    "id": 5375,
+    "docNumber": "2024-FSSQA02",
+    "date": "2024-06-20T06:00:00.000Z",
+    "title": "보험계약 소멸시 기타포괄손익 잔여금액 회계처리",
+    "relStds": "기업회계기준서 제1117호 「보험계약」 문단 <span class='mundan-finder' data-std='1117' data-id='74'>74</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='76'>76</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='77'>77</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='88'>88</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='90'>90</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='91'>91</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='B130'>B130</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='B132'>B132</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='BC49'>BC49</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='BC275'>BC275</span>,&nbsp;<span class='mundan-finder' data-std='1117' data-id='BC319'>BC319</span><br />기업회계기준서 제1008호 「회계정책, 회계추정치 변경과 오류」문단 <span class='mundan-finder' data-std='1008' data-id='13'>13</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1117호 「보험계약」 문단 74,&nbsp;76,&nbsp;77,&nbsp;88,&nbsp;90,&nbsp;91,&nbsp;B130,&nbsp;B132,&nbsp;BC49,&nbsp;BC275,&nbsp;BC319기업회계기준서 제1008호 「회계정책, 회계추정치 변경과 오류」문단 13\n본문\n1. 현황\n\n□보험회사는 직접 참가",
+    "url": "https://db.kasb.or.kr/qnas/5375"
+  },
+  {
+    "type": "qna",
+    "id": 5315,
+    "docNumber": "2024-I-KQA015",
+    "date": "2024-06-17T15:00:00.000Z",
+    "title": "전력시장 시장정산금산정제도에 따른 미정산금액 회계처리",
+    "relStds": "재무제표의 작성과 표시를 위한 개념체계(2007) 문단 <span class='mundan-finder' data-std='1000' data-id='49'>49</span>, <span class='mundan-finder' data-std='1000' data-id='83'>83</span>",
+    "snippet": "레퍼런스 [2024-I-KQA015] 전력시장 시장정산금산정제도에 따른 미정산금액 회계처리\n관련 회계기준 재무보고의 작성과 표시를 위한 제1000호(2007) 문단 49,83\n본문\n## 배경 및 질의\n\n% 1 회사는 전력을 생산하여 전력거래소를 통해 공기업과 민간기업 등에 판매하는 민간석탄발전소이다. 회사는 「전력시장운영규칙」1(‘24.2.29., 시행)에",
+    "url": "https://db.kasb.or.kr/qnas/5315"
+  },
+  {
+    "type": "qna",
+    "id": 5314,
+    "docNumber": "2024-I-KQA014",
+    "date": "2024-05-26T15:00:00.000Z",
+    "title": "(별도재무제표)  NCI 풋에 대한 이연법인세자산 인식",
+    "relStds": "기업회계기준서 제1012호 ‘법인세’ 문단 <span class='mundan-finder' data-std='1012' data-id='8'>8</span>, <span class='mundan-finder' data-std='1012' data-id='10'>10</span>, <span class='mundan-finder' data-std='1012' data-id='24'>24</span>, <span class='mundan-finder' data-std='1012' data-id='44'>44</span>,<span class='mundan-finder' data-std='1012' data-id='51'>51</span>, <span class='mundan-finder' data-std='1012' data-id='51A'>51A</span>",
+    "snippet": "레퍼런스 [2024-I-KQA014] NCI 풋에 대한 이연법인세자산 인식\n관련 회계기준 기업회계기준서 제1012호 ‘법인세’ 문단 8,10,24,44,51,51A\n본문\n## 배경 및 질의\n\n% 1 지배기업은 종속기업이 외부투자를 받는 과정(예: 유상증자)에서 종속기업의 새로운 비지배주주에게 정해진 조건1 하에 비지배지분을 일정한 가격에 매도할 수 있는 옵",
+    "url": "https://db.kasb.or.kr/qnas/5314"
+  },
+  {
+    "type": "qna",
+    "id": 5317,
+    "docNumber": "202404A",
+    "date": "2024-04-29T15:00:00.000Z",
+    "title": "이전기간 중 매도자 계속 고용에 따른 조건부 지급액",
+    "relStds": "기업회계기준서 제1103호 '사업결합'",
+    "snippet": "관련 회계기준 기업회계기준서 제1103호 ‘사업결합’ 본문 1. 질의 내용  국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 기업이 취득한 사업의 매도자에게 지급하는 금액이 인수 후 이전기간(post-acquisition handover period) 중 매도자를 계속 고용함에 따라 달라지는 경우, 그 지급액의 회계처리에 대하여 요청서를 받았다.  ##",
+    "url": "https://db.kasb.or.kr/qnas/5317"
+  },
+  {
+    "type": "qna",
+    "id": 5318,
+    "docNumber": "202404B",
+    "date": "2024-04-29T15:00:00.000Z",
+    "title": "기후 관련 선언",
+    "relStds": "기업회계기준서 제1037호 '충당부채 우발부채 우발자산' 문단 <span class='mundan-finder' data-std='1037' data-id='10'>10</span>, <span class='mundan-finder' data-std='1037' data-id='14'>14</span>, <span class='mundan-finder' data-std='1037' data-id='18'>18</span>, <span class='mundan-finder' data-std='1037' data-id='19'>19</span>, <span class='mundan-finder' data-std='1037' data-id='20'>20</span>, <span class='mundan-finder' data-std='1037' data-id='25'>25</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제37호 '충당부채 우발부채 우발자산' 문단 10,14,18,19,20,25\n본문\n 1. 질의 내용\n\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 다음 사항을 명확히 해달라는 요청서를 받았다.\na.온실가스 배출량을 감축하거나 상쇄한다는 기업의 선언이 의제의무를 생기게 하는지\nb.그러한 선언으로 생기는 의제의무가 IAS 3",
+    "url": "https://db.kasb.or.kr/qnas/5318"
+  },
+  {
+    "type": "qna",
+    "id": 7162,
+    "docNumber": "SSI-202503001",
+    "date": "2024-04-18T21:00:00.000Z",
+    "title": "별도재무제표에서 종속기업의 감액배당 회계처리",
+    "relStds": "K-IFRS 제1027호 '별도재무제표' 문단 <span class='mundan-finder' data-std='1027' data-id='12'>12</span>,&nbsp;<span class='mundan-finder' data-std='1027' data-id='BC17'>BC17</span>,&nbsp;<span class='mundan-finder' data-std='1027' data-id='BC18'>BC18</span><br />K-IFRS 제1109호 '금융상품' 문단 <span class='mundan-finder' data-std='1109' data-id='B5.7.1'>B5.7.1</span>,&nbsp;<span class='mundan-finder' data-std='1109' data-id='용어의 정의'>용어의 정의</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1027호 '별도재무제표' 문단 12,&nbsp;BC17,&nbsp;BC18K-IFRS 제1109호 '금융상품' 문단 B5.7.1,&nbsp;용어의 정의\n본문\n질의\n회사는 별도재무제표에서 종속기업투자주식에 원가법을 적용함. 종속기업이 자본잉여금을 재원으로 배당하는 경우, 회사의 별도재무제표에서 이러한 배당금의 회계처리는?\n회신\n",
+    "url": "https://db.kasb.or.kr/qnas/7162"
+  },
+  {
+    "type": "qna",
+    "id": 5296,
+    "docNumber": "SSG-41625",
+    "date": "2024-04-07T15:00:00.000Z",
+    "title": "채권채무조정 거래에 중소기업 회계처리 특례 적용 여부",
+    "relStds": "일반기업회계기준 제6장 제4절 ’채권·채무조정‘",
+    "snippet": "관련 회계기준 일반기업회계기준 제6장 제4절 ’채권·채무조정‘\n본문\n## 1. 질의 요약\n\n회사(중소기업기본법령에 따른 중소기업)는, 일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 문단 31.7을 적용하여 장기금전대차거래에 대해 현재가치평가를 하지 않고 있음. 당기 중 회사의 재정적 어려움에 따라, 회사와 채권은행간 자율협약 구조조정 결의를 하였고, ",
+    "url": "https://db.kasb.or.kr/qnas/5296"
+  },
+  {
+    "type": "qna",
+    "id": 7171,
+    "docNumber": "SSI-202503010",
+    "date": "2024-03-13T15:00:00.000Z",
+    "title": "차감할 일시적차이의 소멸로 인해 발생되는 세무상결손금에 대한 이연법인세자산 인식",
+    "relStds": "K-IFRS 제1012호 '법인세' 문단 <span class='mundan-finder' data-std='1012' data-id='5'>5</span>,&nbsp;<span class='mundan-finder' data-std='1012' data-id='29'>29</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1012호 '법인세' 문단 5,&nbsp;29\n본문\n질의\r\n회사에는 20X0년 말 현재 차감할 일시적차이 CU1,000이 있는데, 그 밖의 다른 일시적차이, 미사용 세무상결손금과 세액공제는 없음. 차감할 일시적차이는 20X1년에 전부 소멸할 것으로 예상되나, 20X1년과 20X2년에 매년 CU600의 과세소득(X0년 말 존재하는",
+    "url": "https://db.kasb.or.kr/qnas/7171"
+  },
+  {
+    "type": "qna",
+    "id": 7163,
+    "docNumber": "SSI-202503002",
+    "date": "2024-03-08T15:00:00.000Z",
+    "title": "관계기업 지분 일부 매각 시 영업권 회계처리",
+    "relStds": "K-IFRS 제1028호 '관계기업과 공동기업에 대한 투자' 문단 <span class='mundan-finder' data-std='1028' data-id='25'>25</span>,&nbsp;<span class='mundan-finder' data-std='1028' data-id='42'>42</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1028호 '관계기업과 공동기업에 대한 투자' 문단 25,&nbsp;42\n본문\n질의\r\n관계기업 주식을 일부 매각하여 투자자의 소유지분은 감소하였지만 그 투자자산이 관계기업에 대한 투자로 계속 분류되어 지분법을 적용하고 있음소유지분 감소에 대한 회계처리를 할 때, 소유지분에서 영업권을 분리하여 처분되는 지분비율만큼 영업권의 장부금",
+    "url": "https://db.kasb.or.kr/qnas/7163"
+  },
+  {
+    "type": "qna",
+    "id": 7199,
+    "docNumber": "SSG-202506005",
+    "date": "2024-03-04T15:00:00.000Z",
+    "title": "중소기업 유예기간 중 중소기업 특례 적용 가능 여부",
+    "relStds": "일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 문단 <span class='mundan-finder' data-std='31' data-id='31.2'>31.2</span>",
+    "snippet": "관련 회계기준 일반기업회계기준 제31장 ‘중소기업 회계처리 특례’ 문단 31.2\n본문\n질의\r\n중소기업기본법에는 중소기업의 범위 유예기간이 존재하여 규모 확대 등으로 중소기업 요건을 충족하지 않게 된 경우에도 그 사유가 발생한 다음 연도부터 일정 기간은 중소기업으로 인정됨\r\n\n이 유예기간 중에도 일반기업회계기준 제31장 ‘중소기업 회계처리 특례’를 적용할 수",
+    "url": "https://db.kasb.or.kr/qnas/7199"
+  },
+  {
+    "type": "qna",
+    "id": 7169,
+    "docNumber": "SSI-202503008",
+    "date": "2024-03-03T15:00:00.000Z",
+    "title": "계약 해지로 지급하는 위약금의 회계처리",
+    "relStds": "K-IFRS 제1115호 '고객과의 계약에서 생기는 수익' 문단 <span class='mundan-finder' data-std='1115' data-id='51'>51</span>,&nbsp;<span class='mundan-finder' data-std='1115' data-id='88'>88</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1115호 '고객과의 계약에서 생기는 수익' 문단 51,&nbsp;88\n본문\n질의\r\n회사는 고객인 A사에 플랫폼을 제공하고 이에 대한 대가를 받기로 하는 계약을 체결함. 이후 회사가 플랫폼을 A사에 제공하던 도중 이 계약을 해지하고, A사에 계약 해지 위약금을 지급함. 이 경우, 회사가 지급한 위약금을 어떻게 회계처리하는지?\r\n",
+    "url": "https://db.kasb.or.kr/qnas/7169"
+  },
+  {
+    "type": "qna",
+    "id": 5313,
+    "docNumber": "2024-G-KQA002",
+    "date": "2024-02-27T15:00:00.000Z",
+    "title": "신탁계약 체결을 위해 취득한 저작재산권등의 회계처리",
+    "relStds": null,
+    "snippet": "본문\n## 1. 현황\n\n□ 회사와 그 종속기업(이하 ‘연결실체’)은 원저작자로부터 취득한 저작재산권 등*을 신탁회사에 신탁하고, 신탁회사는 연결실체가 아닌 제삼자를 대상으로 수익증권(개별신탁의 수익권)을 발행. 연결실체는 해당 수익증권을 거래할 수 있는 플랫폼을 운영함\n \n* 저작재산권 등은 동질적인 권리를 지분율에 따라 분할하여 처분하는 것에 제약이 없음",
+    "url": "https://db.kasb.or.kr/qnas/5313"
+  },
+  {
+    "type": "qna",
+    "id": 5312,
+    "docNumber": "2024-G-KQA001",
+    "date": "2024-02-25T15:00:00.000Z",
+    "title": "회사와 발전사업자간 체결한 가상의 전력구매계약 체결 회계처리",
+    "relStds": "일반기업회계기준 제6장 문단 <span class='mundan-finder' data-std='6' data-id='6.36'>6.36</span>,<span class='mundan-finder' data-std='6' data-id='6.37'>6.37</span>,<span class='mundan-finder' data-std='6' data-id='6.38'>6.38</span>,<span class='mundan-finder' data-std='6' data-id='실6.85'>실6.85</span>,<span class='mundan-finder' data-std='6' data-id='실6.88'>실6.88</span>,<span class='mundan-finder' data-std='6' data-id='실6.89'>실6.89</span><br />일반기업회계기준 제13장 문단 <span class='mundan-finder' data-std='13' data-id='13.4'>13.4</span>,<span class='mundan-finder' data-std='13' data-id='결13.1'>결13.1</span>",
+    "snippet": "관련 회계기준 일반기업회계기준 제6장 문단 6.36,6.37,6.38,실6.85,실6.88,실6.89일반기업회계기준 제13장 문단 13.4,결13.1\n본문\n## 1. 현황\n\n□ (개요) 회사(전력구매자)는 RE100의 이행과 달성의 일환으로 신재생에너지 공급인증서(이하 ‘REC’)*를 매수하기 위해 신재생에너지(태양광) 발전설비를 보유하고 있는 B사(발전사",
+    "url": "https://db.kasb.or.kr/qnas/5312"
+  },
+  {
+    "type": "qna",
+    "id": 7164,
+    "docNumber": "SSI-202503003",
+    "date": "2024-02-25T15:00:00.000Z",
+    "title": "누적적 배당액에 대한 회계처리",
+    "relStds": "K-IFRS 제1032호 '금융상품:표시' 문단 <span class='mundan-finder' data-std='1032' data-id='11'>11</span>,&nbsp;<span class='mundan-finder' data-std='1032' data-id='35'>35</span>,&nbsp;<span class='mundan-finder' data-std='1032' data-id='AG26'>AG26</span>,&nbsp;<span class='mundan-finder' data-std='1032' data-id='AG37'>AG37</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1032호 '금융상품:표시' 문단 11,&nbsp;35,&nbsp;AG26,&nbsp;AG37\n본문\n질의\r\n회사는 누적적 우선주인 전환상환우선주를 발행함. 투자자가 상환청구권을 행사하면 상환금액은 발행가액과 이에 대한 이자금액(발행일부터 상환일까지 연 복리 8%를 적용하여 산출)의 합계액으로 산정하되, 이미 지급된 배당금이 있으",
+    "url": "https://db.kasb.or.kr/qnas/7164"
+  },
+  {
+    "type": "qna",
+    "id": 7165,
+    "docNumber": "SSI-202503004",
+    "date": "2024-02-20T15:00:00.000Z",
+    "title": "전환사채의 유동성 위험 공시",
+    "relStds": "K-IFRS 제1107호 '금융상품:공시' <span class='page-finder' data-std='1107' data-page='용어의 정의'>용어의 정의</span>,&nbsp;문단 <span class='mundan-finder' data-std='1107' data-id='39'>39</span>,&nbsp;<span class='mundan-finder' data-std='1107' data-id='B11A'>B11A</span>,&nbsp;<span class='mundan-finder' data-std='1107' data-id='B11C'>B11C</span>,&nbsp;<span class='mundan-finder' data-std='1107' data-id='BC58A'>BC58A</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1107호 '금융상품:공시' 용어의 정의,&nbsp;문단 39,&nbsp;B11A,&nbsp;B11C,&nbsp;BC58A\n본문\n질의\r\n회사는 20X1년 초에 전환사채를 발행하였음. 투자자의 전환권 행사는 20X2년부터 가능하고, 조기상환권 행사는 20X4년부터 가능함. 전환권은 K-IFRS 제1032호의 지분상품 정의를 충족한",
+    "url": "https://db.kasb.or.kr/qnas/7165"
+  },
+  {
+    "type": "qna",
+    "id": 7166,
+    "docNumber": "SSI-202503005",
+    "date": "2024-02-18T15:00:00.000Z",
+    "title": "선지급한 금액의 계정 분류",
+    "relStds": "K-IFRS 제1109호 '금융상품' 문단 <span class='mundan-finder' data-std='1109' data-id='3.3.1'>3.3.1</span>,&nbsp;<span class='mundan-finder' data-std='1109' data-id='4.1.2'>4.1.2</span>,&nbsp;<span class='mundan-finder' data-std='1109' data-id='B4.1.18'>B4.1.18</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1109호 '금융상품' 문단 3.3.1,&nbsp;4.1.2,&nbsp;B4.1.18\n본문\n질의\r\n회사는 투자계약을 체결하여 공연제작사(이하 ‘제작사’)에 일정 금액을 선지급하고, 공연 티켓을 회사의 플랫폼에서 판매함이 계약에 따르면 선지급한 금액은 티켓 판매대금에서 우선적으로 정산하여 회수하며, 약정된 티켓 판매기간 종료 시 ",
+    "url": "https://db.kasb.or.kr/qnas/7166"
+  },
+  {
+    "type": "qna",
+    "id": 7173,
+    "docNumber": "SSI-202503012",
+    "date": "2024-02-18T15:00:00.000Z",
+    "title": "주요경영진에 대한 보상 총액",
+    "relStds": "K-IFRS 제1024호 '특수관계자 공시' 문단 <span class='mundan-finder' data-std='1024' data-id='17'>17</span><br />K-IFRS 제1001호 '재무제표 공시' 문단 <span class='mundan-finder' data-std='1001' data-id='27'>27</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1024호 '특수관계자 공시' 문단 17K-IFRS 제1001호 '재무제표 공시' 문단 27\n본문\n질의\r\nK-IFRS 제1024호 ‘특수관계자 공시’ 문단 17에 따른 주요 경영진에 대한 보상의 총액은 실제 지급금액(현금주의)인지 아니면 발생금액(발생주의)인지?\r\n회신\r\n□기업은 현금흐름 정보를 제외하고는 발생기준 회계를 사용하",
+    "url": "https://db.kasb.or.kr/qnas/7173"
+  },
+  {
+    "type": "qna",
+    "id": 5308,
+    "docNumber": "2024-I-KQA009",
+    "date": "2024-02-15T15:00:00.000Z",
+    "title": "보험료배분접근법(PAA)에 대한 회계처리",
+    "relStds": "기업회계기준서 제1117호 ‘보험계약’ 문단 <span class='mundan-finder' data-std='1117' data-id='14'>14</span>, <span class='mundan-finder' data-std='1117' data-id='16'>16</span>, <span class='mundan-finder' data-std='1117' data-id='24'>24</span>, <span class='mundan-finder' data-std='1117' data-id='53'>53</span>, <span class='mundan-finder' data-std='1117' data-id='B126'>B126</span>, <span class='mundan-finder' data-std='1117' data-id='BC51'>BC51</span>",
+    "snippet": "레퍼런스 [2024-I-KQA009] 보험료배분접근법(PAA)에 대한 회계처리\n관련 회계기준 기업회계기준서 제1117호 ‘보험계약’ 문단 14,16,24,53,B126,BC51\n본문\n## 배경 및 질의\n\n% 1 기업회계기준서 제1117호 문단 531에서는 특정 조건을 충족하는 경우, 간소화된 보험부채 측정방법인 보험료배분접근법(Premium Allocati",
+    "url": "https://db.kasb.or.kr/qnas/5308"
+  },
+  {
+    "type": "qna",
+    "id": 5309,
+    "docNumber": "2024-I-KQA010",
+    "date": "2024-02-12T21:00:00.000Z",
+    "title": "열요금 정산금액의 회계처리",
+    "relStds": "재무보고의 작성과 표시를 위한 개념체계(2007) 문단 <span class='mundan-finder' data-std='1000' data-id='49'>49</span>, <span class='mundan-finder' data-std='1000' data-id='83'>83</span>",
+    "snippet": "레퍼런스 [2024-I-KQA010] 열요금 정산제도에 따른 정산금액의 회계처리\n관련 회계기준 재무보고의 작성과 표시를 위한 개념체계(2007) 문단 49, 83\n본문\n배경 및 질의\n1회사는 에너지공급시설에서 생산된 에너지(열, 전기)를 다수 사용자에게 일괄 공급하는 사업을 한다.\n2열요금은 회사의 설립 근거 법에 따라 관련 부처에서 고시하는 ‘열요금 산정",
+    "url": "https://db.kasb.or.kr/qnas/5309"
+  },
+  {
+    "type": "qna",
+    "id": 7170,
+    "docNumber": "SSI-202503009",
+    "date": "2024-02-03T15:00:00.000Z",
+    "title": "사용량 기준으로 정산되는 리스계약의 회계처리",
+    "relStds": "K-IFRS 제1116호 '리스' 문단 <span class='mundan-finder' data-std='1116' data-id='27'>27</span>,&nbsp;<span class='mundan-finder' data-std='1116' data-id='B42'>B42</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1116호 '리스' 문단 27,&nbsp;B42\n본문\n질의\r\n회사가 장비를 임차하는 계약을 체결하고, 임차료로 매월 고정금액을 지급하나, 매년 말 장비 사용 횟수에 일정 단가를 적용한 금액을 기준으로 하여 정산하기로 함. 해당 계약에 대해 리스부채를 인식해야 하는지?\r\n회신\r\n□일반적으로 리스료가 장비 사용 횟수에 따라 달라지고",
+    "url": "https://db.kasb.or.kr/qnas/7170"
+  },
+  {
+    "type": "qna",
+    "id": 5307,
+    "docNumber": "2024-I-KQA008",
+    "date": "2024-02-01T15:00:00.000Z",
+    "title": "해약환급금 중 투자요소에 해당하는 금액에 대한 질의",
+    "relStds": "기업회계기준서 제1117호 ‘보험계약’ <span class='page-finder' data-std='1117' data-page='용어의 정의'>용어의 정의</span>, <span class='mundan-finder' data-std='1117' data-id='BC34'>BC34</span>",
+    "snippet": "레퍼런스 [2024-I-KQA008] 해약환급금 중 투자요소에 해당하는 금액에 대한 질의\n관련 회계기준 기업회계기준서 제1117호 ‘보험계약’ 용어의 정의,BC34\n본문\n## 배경 및 질의\n\n% 1 ‘해약환급금’은 보험계약자가 보험계약을 중도 해지하는 경우, 회사가 계약자에게 지급하는 금액을 말한다.\n\n% 2 회사는 ‘해약환급금’ 명목으로 지급한 금액을 투",
+    "url": "https://db.kasb.or.kr/qnas/5307"
+  },
+  {
+    "type": "qna",
+    "id": 5306,
+    "docNumber": "2024-I-KQA007",
+    "date": "2024-01-31T15:00:00.000Z",
+    "title": "실제와 예상 발생사고 수의 차이에 의한 이행현금흐름 변동의 회계처리와 보험수익 인식방법",
+    "relStds": "기업회계기준서 제1117호 ‘보험계약’ 문단 <span class='mundan-finder' data-std='1117' data-id='B96'>B96⑵</span>, <span class='mundan-finder' data-std='1117' data-id='B119'>B119</span>, <span class='mundan-finder' data-std='1117' data-id='B123'>B123</span>, <span class='mundan-finder' data-std='1117' data-id='BC234'>BC234</span>, <span class='mundan-finder' data-std='1117' data-id='BC279'>BC279</span><br />기업회계기준서 제1115호 ‘고객과의 계약에서 생기는 수익’ 문단 <span class='mundan-finder' data-std='1115' data-id='5(2)'>5(2)</span>",
+    "snippet": "레퍼런스 [2024-I-KQA007] 보험서비스비용에 대한 보험수익\n관련 회계기준 기업회계기준서 제1117호 ‘보험계약’ 문단 B96⑵,B119,B123,BC234,BC279기업회계기준서 제1115호 ‘고객과의 계약에서 생기는 수익’ 문단 5(2)\n본문\n## 배경 및 질의\n\n% 1 해당 기간에 실제 보험 사고가 예상보다 많이 발생했으나 전체 기간으로 보면 ",
+    "url": "https://db.kasb.or.kr/qnas/5306"
+  },
+  {
+    "type": "qna",
+    "id": 5316,
+    "docNumber": "202401A",
+    "date": "2024-01-30T15:00:00.000Z",
+    "title": "별도재무제표에서 지배기업과 종속기업의 합병",
+    "relStds": "기업회계기준서 제1027호 문단 <span class='mundan-finder' data-std='1027' data-id='10'>10</span><br />기업회계기준서 <span class='mundan-finder' data-std='1103' data-id='제1103호'>제1103호</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1027호 문단 10기업회계기준서 제1103호\n본문\n## 1. 질의 내용\n\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 IAS 27을 적용할 때 별도재무제표를 작성하는 지배기업이 종속기업과의 합병을 별도재무제표에서 어떻게 회계처리하는지에 대하여 요청서를 받았다.\n\n### 사실관계\n\n요청서에 기술된 사실관계는 다음과 같다",
+    "url": "https://db.kasb.or.kr/qnas/5316"
+  },
+  {
+    "type": "qna",
+    "id": 5305,
+    "docNumber": "2024-I-KQA006",
+    "date": "2024-01-24T15:00:00.000Z",
+    "title": "(별도재무제표) 종속기업 현물출자로 생긴 압축기장충당금과 이연법인세부채 인식",
+    "relStds": "기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류' 문단<span class='mundan-finder' data-std='1008' data-id='34~39'>34~39</span><br />기업회계기준서 제1012호 ‘법인세’ 문단 <span class='mundan-finder' data-std='1012' data-id='15'>15</span>, <span class='mundan-finder' data-std='1012' data-id='39'>39</span>",
+    "snippet": "레퍼런스 [2024-I-KQA006] 현물출자로 생긴 압축기장충당금에 대한 이연법인세부채 인식\n관련 회계기준 기업회계기준서 제1008호 ‘회계정책, 회계추정치 변경과 오류' 문단34~39기업회계기준서 제1012호 ‘법인세’ 문단 15,39\n본문\n## 배경 및 질의\n\n% 1 회사는 종속기업(지분 100%)을 설립하고, 그 종속기업에 회사 소유의 부동산을 임대",
+    "url": "https://db.kasb.or.kr/qnas/5305"
+  },
+  {
+    "type": "qna",
+    "id": 5302,
+    "docNumber": "2024-I-KQA005",
+    "date": "2024-01-15T15:00:00.000Z",
+    "title": "인센티브 수취의 수익 인식시기",
+    "relStds": "기업회계기준서 제1115호 ‘고객과의 계약에서 생기는 수익’ 문단 <span class='mundan-finder' data-std='1115' data-id='50∼54'>50∼54</span>, <span class='mundan-finder' data-std='1115' data-id='56~58'>56~58</span>, <span class='mundan-finder' data-std='1115' data-id='B63~B63B'>B63~B63B</span>",
+    "snippet": "레퍼런스 [2024-I-KQA005] Incentive 수취에 따른 수익인식시기 관련 질의\n관련 회계기준 기업회계기준서 제1115호 ‘고객과의 계약에서 생기는 수익’ 문단 50∼54, 56~58, B63~B63B\n본문\n## 배경 및 질의\n% 1 회사는 C국 개발사와 게임 IP(게임의 이름, 캐릭터, 그림 등을 포함한 지적재산권) 라이선스 부여 계약(지적재산",
+    "url": "https://db.kasb.or.kr/qnas/5302"
+  },
+  {
+    "type": "qna",
+    "id": 5294,
+    "docNumber": "2023-FSSQA03",
+    "date": "2024-01-08T15:00:00.000Z",
+    "title": "정책형 펀드에 대한 연결 여부 판단(2) - 종속회사에 포함되지 않는 경우",
+    "relStds": "K-IFRS 제1110호",
+    "snippet": "관련 회계기준 K-IFRS 제1110호\n본문\n## 1. 현 황\n\n□ A사는 혁신성장･정책펀드 등에 그룹차원에서 공동 출자 및 운용을 추진 중이며, ’23.9월 정책형 펀드(2,700억원 규모)를 조성\n\n□ B사(이하 ‘GP’)은 회사의 73% 자회사로서, 정책형 펀드의 GP*임\n\n\n\n* GP(General Partner) : 펀드 운용사\n\n◦ GP의 주요 ",
+    "url": "https://db.kasb.or.kr/qnas/5294"
+  },
+  {
+    "type": "qna",
+    "id": 5293,
+    "docNumber": "2023-FSSQA02",
+    "date": "2024-01-08T15:00:00.000Z",
+    "title": "정책형 펀드에 대한 연결 여부 판단(1) - 종속회사에 포함되는 경우",
+    "relStds": "K-IFRS 제1110호",
+    "snippet": "관련 회계기준 K-IFRS 제1110호\n본문\n## 1. 현 황\n□ A사는 혁신성장･정책펀드 등에 그룹차원에서 공동 출자 및 운용을 추진 중이며, ’23.7월 정책형 펀드(1,000억원 규모)를 조성\n\n□ B사(이하 ‘GP’)은 회사의 100% 자회사로서, 정책형 펀드의 GP*임\n\n\n\n* GP(General Partner) : 펀드 운용사\n\n◦ GP의 주요 ",
+    "url": "https://db.kasb.or.kr/qnas/5293"
+  },
+  {
+    "type": "qna",
+    "id": 5292,
+    "docNumber": "2023-FSSQA01",
+    "date": "2024-01-08T15:00:00.000Z",
+    "title": "증권회사의 ETF 발행시장 회계처리",
+    "relStds": "K-IFRS 제1109호 ,\nK-IFRS 제1113호",
+    "snippet": "관련 회계기준 K-IFRS 제1109호 ,\nK-IFRS 제1113호\n본문\n## 1. 현 황\n\n□ A증권(이하 “회사”)은 ETF 설정·환매가 이루어지는 발행시장에서 「자본시장법」에 따라 투자매매업 등의 인가를 받아 지정참가자(AP) 및 유동성공급자(LP)로서 업무를 영위함\n\n□ 회사는 유동성공급자로서 호가 제공 및 차익거래에 따른 이익 제고 등을 위해 발행",
+    "url": "https://db.kasb.or.kr/qnas/5292"
+  },
+  {
+    "type": "qna",
+    "id": 7172,
+    "docNumber": "SSI-202503011",
+    "date": "2024-01-03T06:00:00.000Z",
+    "title": "차입원가 예시의 선택적 포함 여부",
+    "relStds": "K-IFRS 제1023호 '차입원가' 문단 <span class='mundan-finder' data-std='1023' data-id='5'>5</span>,&nbsp;<span class='mundan-finder' data-std='1023' data-id='6'>6</span>,&nbsp;<span class='mundan-finder' data-std='1023' data-id='BC9'>BC9</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1023호 '차입원가' 문단 5,&nbsp;6,&nbsp;BC9\n본문\n질의\nK-IFRS 제1023호 문단 6에서는 차입원가는 ‘다음과 같은 항목을 포함할 수 있다’고 언급하면서 세 가지 항목을 기술함. 이 항목들은 차입원가에 필수적으로 포함해야 하는지, 아니면 회사가 선택적으로 포함할 수 있는지?\n회신\n□자산의 원가에는 자산의 ",
+    "url": "https://db.kasb.or.kr/qnas/7172"
+  },
+  {
+    "type": "qna",
+    "id": 5328,
+    "docNumber": "SSI-202412013",
+    "date": "2023-12-21T15:00:00.000Z",
+    "title": "특수관계자 범위",
+    "relStds": "K-IFRS 제1024호 '특수관계자 공시' 문단 <span class='mundan-finder' data-std='1024' data-id='9'>9</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1024호 '특수관계자 공시' 문단 9\n본문\n질의\r\n갑은 A사의 대표이사이고(A사 지분은 소유하지 않음), 갑의 배우자인 을은 B사의 사내이사로서, B사에 대해 공동지배력(B사 지분 50% 보유)을 보유함이 경우, B사는 K-IFRS 제1024호 문단 9 특수관계자의 정의 ⑵㈓에 해당되어 A사와 특수관계에 있다고 보아야 하는지?",
+    "url": "https://db.kasb.or.kr/qnas/5328"
+  },
+  {
+    "type": "qna",
+    "id": 5331,
+    "docNumber": "SSI-202412024",
+    "date": "2023-12-20T15:00:00.000Z",
+    "title": "사용가치 추정이 불확실한 경우의 회수가능액 측정",
+    "relStds": "K-IFRS 제1036호 '자산손상' 문단 <span class='mundan-finder' data-std='1036' data-id='19'>19</span>,&nbsp;<span class='mundan-finder' data-std='1036' data-id='21'>21</span>,&nbsp;<span class='mundan-finder' data-std='1036' data-id='BCZ25'>BCZ25</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1036호 '자산손상' 문단 19,&nbsp;21,&nbsp;BCZ25\n본문\n질의\r\n별도재무제표에서 종속기업 A를 원가법으로 측정하는 회사가 당기 A사에 대한 손상징후가 발견되어 손상검사를 수행하려고 함보고기간 말에 A사가 속한 사업은 경기침체가 예상되고 있어 A사의 사용가치 추정에 불확실성이 큰 경우, 공정가치에서 처분부대원가",
+    "url": "https://db.kasb.or.kr/qnas/5331"
+  }
+]

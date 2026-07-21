@@ -1,0 +1,12 @@
+{
+  "name": "kasb-accounting-mcp",
+  "version": "1.0.0",
+  "description": "회계팀용 KASB(한국회계기준원) 회계기준서·질의회신 MCP 서버 (Vercel 서버리스). Korean-law-mcp(법제처)와 함께 회계팀 IT 업무지원 MCP 세트를 구성.",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "crawl": "python3 crawler/crawl_kasb.py"
+  }
+}
