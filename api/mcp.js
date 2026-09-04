@@ -268,6 +268,46 @@ async function callTool(name, args) {
   }
 }
 
+// ── MCP 프로토콜 버전 협상 ──────────────────────────────────────────────────
+// 규격 근거 두 가지.
+//  (1) Lifecycle "Version Negotiation": 서버는 요청받은 버전을 지원하면 같은 값으로,
+//      지원하지 않으면 "자기가 지원하는" 다른 버전으로 응답해야 한다(MUST).
+//  (2) Transports "Protocol Version Header": MCP-Protocol-Version 헤더가 미지원
+//      버전이면 400 Bad Request 로 응답해야 한다(MUST). 이 400은 신형(2026-07-28)
+//      클라이언트가 HTTP에서 구형 서버를 판별해 폴백하는 유일한 신호이기도 하므로,
+//      200 으로 통과시키면 신형 클라이언트가 이 서버를 신형으로 오인한다.
+// 목록은 @modelcontextprotocol/sdk 의 SUPPORTED_PROTOCOL_VERSIONS 와 동일하게 맞춰,
+// SDK 기반 서버들과 협상 결과가 갈리지 않도록 한다.
+const SUPPORTED_PROTOCOL_VERSIONS = [
+  "2025-11-25",
+  "2025-06-18",
+  "2025-03-26",
+  "2024-11-05",
+  "2024-10-07",
+];
+const LATEST_PROTOCOL_VERSION = SUPPORTED_PROTOCOL_VERSIONS[0];
+
+function negotiateProtocolVersion(requested) {
+  return SUPPORTED_PROTOCOL_VERSIONS.includes(requested)
+    ? requested
+    : LATEST_PROTOCOL_VERSION;
+}
+
+// 헤더가 없으면 통과한다(규격상 서버는 2025-03-26 으로 간주). 값이 있으면 대조한다.
+function protocolVersionHeaderError(req) {
+  const raw = req.headers && req.headers["mcp-protocol-version"];
+  const v = Array.isArray(raw) ? raw[0] : raw;
+  if (!v || SUPPORTED_PROTOCOL_VERSIONS.includes(v)) return null;
+  return {
+    jsonrpc: "2.0",
+    error: {
+      code: -32000,
+      message: `Bad Request: Unsupported protocol version: ${v} (supported versions: ${SUPPORTED_PROTOCOL_VERSIONS.join(", ")})`,
+    },
+    id: null,
+  };
+}
+
 function sendSse(res, obj) {
   res.write(`data: ${JSON.stringify(obj)}\n\n`);
 }
@@ -328,6 +368,14 @@ function gateCheck(req, res) {
 module.exports = async (req, res) => {
   if (!gateCheck(req, res)) return;
 
+  const pvError = protocolVersionHeaderError(req);
+  if (pvError) {
+    res.statusCode = 400;
+    res.setHeader("Content-Type", "application/json");
+    res.end(JSON.stringify(pvError));
+    return;
+  }
+
   if (req.method !== "POST") {
     res.statusCode = 200;
     res.setHeader("Content-Type", "application/json");
@@ -350,15 +398,24 @@ module.exports = async (req, res) => {
     return;
   }
 
+  const { id, method, params } = rpc;
+
+  // 알림(notification)에는 응답 본문이 없어야 한다 — 규격상 202 Accepted.
+  if (typeof method === "string" && method.startsWith("notifications/")) {
+    res.statusCode = 202;
+    res.end();
+    return;
+  }
+
   res.statusCode = 200;
   res.setHeader("Content-Type", "text/event-stream");
   res.setHeader("Cache-Control", "no-cache");
   res.setHeader("Connection", "keep-alive");
 
-  const { id, method, params } = rpc;
-
   try {
-    if (method === "tools/list") {
+    if (method === "ping") {
+      sendSse(res, { jsonrpc: "2.0", id, result: {} });
+    } else if (method === "tools/list") {
       sendSse(res, { jsonrpc: "2.0", id, result: { tools: TOOLS } });
     } else if (method === "tools/call") {
       const toolName = params && params.name;
@@ -374,7 +431,7 @@ module.exports = async (req, res) => {
         jsonrpc: "2.0",
         id,
         result: {
-          protocolVersion: "2024-11-05",
+          protocolVersion: negotiateProtocolVersion(params && params.protocolVersion),
           serverInfo: { name: "kasb-accounting-mcp", version: "1.0.0" },
           capabilities: { tools: {} },
         },
