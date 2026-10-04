@@ -1,6 +1,86 @@
 [
   {
     "type": "qna",
+    "id": 7243,
+    "docNumber": "202604B",
+    "date": "2026-04-29T15:00:00.000Z",
+    "title": "지배기업의 별도재무제표 목적상 특정한 주된 사업활동의 평가",
+    "relStds": "기업회계기준서 제1118호 ‘재무제표 표시와 공시’ 문단 <span class='mundan-finder' data-std='1118' data-id='49'>49</span>, <span class='mundan-finder' data-std='1118' data-id='52'>52</span>, <span class='mundan-finder' data-std='1118' data-id='53'>53</span>, <span class='mundan-finder' data-std='1118' data-id='55'>55</span>, <span class='mundan-finder' data-std='1118' data-id='B30~B41'>B30~B41</span>, <span class='mundan-finder' data-std='1118' data-id='B42'>B42</span>, <span class='mundan-finder' data-std='1118' data-id='B44'>B44</span>, <span class='mundan-finder' data-std='1118' data-id='BC98~BC99'>BC98~BC99</span><br/>기업회계기준서 제1027호 ‘별도재무제표’ 문단 <span class='mundan-finder' data-std='1027' data-id='10'>10</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1118호 ‘재무제표 표시와 공시’ 문단 49, 52, 53, 55, B30~B41, B42, B44, BC98~BC99기업회계기준서 제1027호 ‘별도재무제표’ 문단 10\n본문\n1. 질의 내용\n\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 IFRS 18 ‘재무제표 표시와 공시’을 적용하는 지배기업이 별도재무제표 목적상",
+    "url": "https://db.kasb.or.kr/qnas/7243"
+  },
+  {
+    "type": "qna",
+    "id": 7244,
+    "docNumber": "202604C",
+    "date": "2026-04-29T15:00:00.000Z",
+    "title": "연결실체 내 화폐성 부채(또는 자산)에서 발생한 외환차이의 분류",
+    "relStds": "기업회계기준서 제1118호 ‘재무제표 표시와 공시’ 문단 <span class='mundan-finder' data-std='1118' data-id='52'>52</span>, <span class='mundan-finder' data-std='1118' data-id='B65'>B65</span>, <span class='mundan-finder' data-std='1118' data-id='B68'>B68</span><br/>기업회계기준서 제1021호 ‘환율변동효과’ 문단 <span class='mundan-finder' data-std='1021' data-id='45'>45</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1118호 ‘재무제표 표시와 공시’ 문단 52, B65, B68기업회계기준서 제1021호 ‘환율변동효과’ 문단 45\n본문\n1. 질의 내용\n\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 연결실체 내 화폐성부채(또는 화폐성자산)에서 발생한 외환차이의 분류에 대해 요청서를 받았다. IFRS 18 문단 B65에서는 과도한 원가",
+    "url": "https://db.kasb.or.kr/qnas/7244"
+  },
+  {
+    "type": "qna",
+    "id": 7245,
+    "docNumber": "202604D",
+    "date": "2026-04-29T15:00:00.000Z",
+    "title": "외화 위험을 관리하는 파생상품에서 발생한 손익의 분류",
+    "relStds": "기업회계기준서 제1118호 ‘재무제표 표시와 공시’ 문단 <span class='mundan-finder' data-std='1118' data-id='B70~B76'>B70~B76</span>, <span class='mundan-finder' data-std='1118' data-id='49'>49</span>, <span class='mundan-finder' data-std='1118' data-id='B65'>B65</span><br/>기업회계기준서 제1109호 ‘금융상품’ 문단 <span class='mundan-finder' data-std='1109' data-id='BC6.144'>BC6.144</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1118호 ‘재무제표 표시와 공시’ 문단 B70~B76, 49, B65기업회계기준서 제1109호 ‘금융상품’ 문단 BC6.144\n본문\n1. 질의 내용\n\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 기업이 연결손익계산서에서 파생금융상품의 손익을 분류하기 위해 IFRS 18 ‘재무제표 표시와 공시’ 문단 B70~B76의 요",
+    "url": "https://db.kasb.or.kr/qnas/7245"
+  },
+  {
+    "type": "qna",
+    "id": 7246,
+    "docNumber": "202604E",
+    "date": "2026-04-29T15:00:00.000Z",
+    "title": "성격별 비용 공시 요구사항의 적용범위",
+    "relStds": "기업회계기준서 제1118호 ‘재무제표 표시와 공시’ 문단 <span class='mundan-finder' data-std='1118' data-id='75'>75</span>, <span class='mundan-finder' data-std='1118' data-id='83'>83</span>, <span class='mundan-finder' data-std='1118' data-id='B84'>B84</span>, <span class='mundan-finder' data-std='1118' data-id='IE7'>IE7</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1118호 ‘재무제표 표시와 공시’ 문단 75, 83, B84, IE7\n본문\n1. 질의 내용\n\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 IFRS 18 문단 83의 적용 범위에 대해 요청서를 받았다. IFRS 18 문단 75에서는 다음을 손익계산서의 별도표시항목으로 표시하도록 요구한다.\na.영업비용 (IFRS 18 문",
+    "url": "https://db.kasb.or.kr/qnas/7246"
+  },
+  {
+    "type": "qna",
+    "id": 7247,
+    "docNumber": "202604F",
+    "date": "2026-04-29T15:00:00.000Z",
+    "title": "공정한 표시와 IFRS 회계기준서의 준수 (IAS 1)",
+    "relStds": "기업회계기준서 제1001호 ‘재무제표 표시’ 문단 <span class='mundan-finder' data-std='1001' data-id='15~24'>15~24</span><br/>기업회계기준서 제1008호 '재무제표의 작성 기준' 문단 <span class='mundan-finder' data-std='1008' data-id='6A~6J'>6A~6J</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1001호 ‘재무제표 표시’ 문단 15~24기업회계기준서 제1008호 '재무제표의 작성 기준' 문단 6A~6J\n본문\n1. 질의 내용\n\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 공정한 표시와 IFRS 회계기준서의 준수에 관련되는 IAS 1 문단 15~24 [IAS 8 문단 6A~6J]의 요구사항의 적용에 대한 요청서를",
+    "url": "https://db.kasb.or.kr/qnas/7247"
+  },
+  {
+    "type": "qna",
+    "id": 7242,
+    "docNumber": "202604A",
+    "date": "2026-04-29T15:00:00.000Z",
+    "title": "오프테이크(Offtake) 약정 하에 배터리를 사용하여 생기는 경제적 효익",
+    "relStds": "기업회계기준서 제1116호 ‘리스’ 문단 <span class='mundan-finder' data-std='1116' data-id='9'>9</span>, <span class='mundan-finder' data-std='1116' data-id='B9'>B9</span>, <span class='mundan-finder' data-std='1116' data-id='B21'>B21</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1116호 ‘리스’ 문단 9, B9, B21\n본문\n1. 질의 내용\n\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 기업이 IFRS 16 문단 B9(a)의 요구사항을 어떻게 적용하는지, 특히 고객이 식별되는 자산의 사용으로 생기는 경제적 효익의 대부분을 얻을 권리를 가지는지를 어떻게 판단하는지에 대해 요청서를 받았다. 요청",
+    "url": "https://db.kasb.or.kr/qnas/7242"
+  },
+  {
+    "type": "qna",
+    "id": 7241,
+    "docNumber": "202601B",
+    "date": "2026-01-30T15:00:00.000Z",
+    "title": "내재 중도상환옵션",
+    "relStds": "기업회계기준서 제1109호 ‘금융상품’ 문단 <span class='mundan-finder' data-std='1109' data-id='B4.3.5'>B4.3.5</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1109호 ‘금융상품’ 문단 B4.3.5\n본문\n1. 질의 내용\n\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 대출계약에 포함된 내재 중도상환옵션의 분리 여부 판단에 IFRS 9 문단 B4.3.5 요구사항을 적용하는 것에 관한 요청서를 받았다.\n\n요청서에 기술된 사실 관계는 다음과 같다.\n\n요청서에서는 금융부채의 중도상환",
+    "url": "https://db.kasb.or.kr/qnas/7241"
+  },
+  {
+    "type": "qna",
+    "id": 7240,
+    "docNumber": "202601A",
+    "date": "2026-01-30T15:00:00.000Z",
+    "title": "거래원가의 판단과 회계처리",
+    "relStds": "기업회계기준서 제1109호 ‘금융상품’ <span class='mundan-finder' data-std='1109' data-id='용어의정의'>부록 A. 용어의 정의</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1109호 ‘금융상품’ 부록 A. 용어의 정의\n본문\n1. 질의 내용\n\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 IFRS 9의 거래원가 정의와 거래원가와 관련되는 IFRS 9 요구사항의 적용에 대한 요청서를 받았다.\n\n요청서에 기술된 사실 관계는 다음과 같다.\n\n요청서에서는 금융상품의 취득 또는 발행과 직접 관련되지만",
+    "url": "https://db.kasb.or.kr/qnas/7240"
+  },
+  {
+    "type": "qna",
     "id": 7232,
     "docNumber": "SSI-202606006",
     "date": "2025-12-29T15:00:00.000Z",
@@ -251,16 +331,6 @@
   },
   {
     "type": "qna",
-    "id": 7220,
-    "docNumber": "SSI-202511015",
-    "date": "2025-04-22T15:00:00.000Z",
-    "title": "지배기업이 종속기업 전환사채 투자자에게 풋옵션을 부여한 경우, 종속기업의 회계처리",
-    "relStds": "K-IFRS 제1109호 ‘금융상품’ 문단 <span class='mundan-finder' data-std='1109' data-id='3.1.1'>3.1.1</span>, <span class='mundan-finder' data-std='1109' data-id='B5.1.1'>B5.1.1</span>, <span class='mundan-finder' data-std='1109' data-id='B5.1.2A'>B5.1.2A</span>",
-    "snippet": "관련 회계기준 K-IFRS 제1109호 ‘금융상품’ 문단 3.1.1, B5.1.1, B5.1.2A\n본문\n\n질의\n종속기업은 외부 투자자(M)에게 전환사채를 발행함. 지배기업은 전환사채 투자자(M)와의 계약을 통해 지배기업이나 지배기업이 지정하는 자에게 해당 전환사채를 매도할 수 있는 풋옵션을 부여함\n\n종속기업의 재무제표에서 해당 풋옵션의 회계처리는? (지배기",
-    "url": "https://db.kasb.or.kr/qnas/7220"
-  },
-  {
-    "type": "qna",
     "id": 7210,
     "docNumber": "SSI-202511004",
     "date": "2025-04-22T15:00:00.000Z",
@@ -268,6 +338,16 @@
     "relStds": "K-IFRS 제1012호 ‘법인세’ 문단 <span class='mundan-finder' data-std='1012' data-id='23'>23</span>, <span class='mundan-finder' data-std='1012' data-id='51'>51</span>, <span class='mundan-finder' data-std='1012' data-id='60'>60</span>, <span class='mundan-finder' data-std='1012' data-id='61A'>61A</span>, <span class='mundan-finder' data-std='1012' data-id='62A'>62A</span>",
     "snippet": "관련 회계기준 K-IFRS 제1012호 ‘법인세’ 문단 23, 51, 60, 61A, 62A\n본문\n\n질의\n회사는 발행한 전환사채의 전환권을 자본으로 분류하였으나 상환될 것으로 예상하여 전환사채 장부금액과 세무기준액 사이의 가산할 일시적차이에 대해 이연법인세부채를 인식하면서 자본요소의 장부금액에 직접 반영하였음(K-IFRS 제1012호 문단 23, 문단 51",
     "url": "https://db.kasb.or.kr/qnas/7210"
+  },
+  {
+    "type": "qna",
+    "id": 7220,
+    "docNumber": "SSI-202511015",
+    "date": "2025-04-22T15:00:00.000Z",
+    "title": "지배기업이 종속기업 전환사채 투자자에게 풋옵션을 부여한 경우, 종속기업의 회계처리",
+    "relStds": "K-IFRS 제1109호 ‘금융상품’ 문단 <span class='mundan-finder' data-std='1109' data-id='3.1.1'>3.1.1</span>, <span class='mundan-finder' data-std='1109' data-id='B5.1.1'>B5.1.1</span>, <span class='mundan-finder' data-std='1109' data-id='B5.1.2A'>B5.1.2A</span>",
+    "snippet": "관련 회계기준 K-IFRS 제1109호 ‘금융상품’ 문단 3.1.1, B5.1.1, B5.1.2A\n본문\n\n질의\n종속기업은 외부 투자자(M)에게 전환사채를 발행함. 지배기업은 전환사채 투자자(M)와의 계약을 통해 지배기업이나 지배기업이 지정하는 자에게 해당 전환사채를 매도할 수 있는 풋옵션을 부여함\n\n종속기업의 재무제표에서 해당 풋옵션의 회계처리는? (지배기",
+    "url": "https://db.kasb.or.kr/qnas/7220"
   },
   {
     "type": "qna",
@@ -635,8 +715,8 @@
     "docNumber": "202407A",
     "date": "2024-07-30T15:00:00.000Z",
     "title": "보고부문에 대한 수익과 비용 공시",
-    "relStds": "기업회계기준서 제1108호 '영업부문' 문단 <span class='mundan-finder' data-std='1108' data-id='23'>23</span><br />기업회계기준서 제1001호 '재무제표 표시' 문단 <span class='mundan-finder' data-std='1001' data-id='7'>7</span>,&nbsp;<span class='mundan-finder' data-std='1001' data-id='30'>30</span>,&nbsp;<span class='mundan-finder' data-std='1001' data-id='30A'>30A</span>,&nbsp;<span class='mundan-finder' data-std='1001' data-id='31'>31</span>,&nbsp;<span class='mundan-finder' data-std='1001' data-id='97'>97</span>,&nbsp;<span class='mundan-finder' data-std='1001' data-id='98'>98</span><br />",
-    "snippet": "관련 회계기준 기업회계기준서 제1108호 '영업부문' 문단 23기업회계기준서 제1001호 '재무제표 표시' 문단 7, 30, 30A, 31, 97, 98 본문 1. 질의 내용\\n  국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 부문당기손익에 관련되는 규정된 금액을 보고부문별로 공시하도록 하는 IFRS 8 문단 23의 요구사항을 어떻게 적용하는지에 대한",
+    "relStds": "기업회계기준서 제1108호 '영업부문' 문단 <span class='mundan-finder' data-std='1108' data-id='23'>23</span><br/>기업회계기준서 제1001호 '재무제표 표시' 문단 <span class='mundan-finder' data-std='1001' data-id='7'>7</span>, <span class='mundan-finder' data-std='1001' data-id='30'>30</span>, <span class='mundan-finder' data-std='1001' data-id='30A'>30A</span>, <span class='mundan-finder' data-std='1001' data-id='31'>31</span>, <span class='mundan-finder' data-std='1001' data-id='97'>97</span>, <span class='mundan-finder' data-std='1001' data-id='98'>98</span><br/>기업회계기준서 제1118호 '재무제표 표시와 공시' 문단 <span class='mundan-finder' data-std='1118' data-id='41'>41</span>, <span class='mundan-finder' data-std='1118' data-id='42'>42</span>, <span class='mundan-finder' data-std='1118' data-id='43'>43</span>, <span class='mundan-finder' data-std='1118' data-id='B2'>B2</span>, <span class='mundan-finder' data-std='1118' data-id='B79'>B79</span>, <span class='mundan-finder' data-std='1118' data-id='용어의정의'>부록 A. 용어의 정의</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1108호 '영업부문' 문단 23기업회계기준서 제1001호 '재무제표 표시' 문단 7, 30, 30A, 31, 97, 98기업회계기준서 제1118호 '재무제표 표시와 공시' 문단 41, 42, 43, B2, B79, 부록 A. 용어의 정의\n본문\n2026년 1월 갱신: IAS 1 '재무제표 표시'에 대한 참조를 IFRS 18 '",
     "url": "https://db.kasb.or.kr/qnas/5321"
   },
   {
@@ -2353,10 +2433,10 @@
     "type": "qna",
     "id": 5152,
     "docNumber": "221007B",
-    "date": "2022-04-29T06:00:00.000Z",
+    "date": "2022-04-29T15:00:00.000Z",
     "title": "제삼자와의 계약으로 인해 사용이 제한된 요구불예금",
-    "relStds": "기업회계기준서 제1007호 ‘현금흐름표’ 문단 <span class='mundan-finder' data-std='1007' data-id='6'>6</span>, <span class='mundan-finder' data-std='1007' data-id='45'>45</span>, <span class='mundan-finder' data-std='1007' data-id='48'>48</span>, </br>기업회계기준서 제1001호 ‘재무제표 표시’ 문단 <span class='mundan-finder' data-std='1001' data-id='31'>31</span>, <span class='mundan-finder' data-std='1001' data-id='54'>54</span>, <span class='mundan-finder' data-std='1001' data-id='55'>55</span>, <span class='mundan-finder' data-std='1001' data-id='66'>66</span>",
-    "snippet": "관련 회계기준 기업회계기준서 제1007호 ‘현금흐름표’ 문단 6, 45, 48, 기업회계기준서 제1001호 ‘재무제표 표시’ 문단 31, 54, 55, 66\n본문\n1. 질의 내용\n\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 제삼자와의 계약으로 인해 사용이 제한된 요구불예금을 현금흐름표와 재무상태표에서 현금및현금성자산의 구성요소에 포함하는지에 대한 ",
+    "relStds": "기업회계기준서 제1007호 ‘현금흐름표’ 문단 <span class='mundan-finder' data-std='1007' data-id='6'>6</span>, <span class='mundan-finder' data-std='1007' data-id='45'>45</span>, <span class='mundan-finder' data-std='1007' data-id='48'>48</span><br/>기업회계기준서 제1001호 ‘재무제표 표시’ 문단 <span class='mundan-finder' data-std='1001' data-id='31'>31</span>, <span class='mundan-finder' data-std='1001' data-id='54'>54</span>, <span class='mundan-finder' data-std='1001' data-id='55'>55</span>, <span class='mundan-finder' data-std='1001' data-id='66'>66</span><br/>기업회계기준서 제1118호 '재무제표 표시와 공시' 문단 <span class='mundan-finder' data-std='1118' data-id='20'>20</span>, <span class='mundan-finder' data-std='1118' data-id='23~24'>23~24</span>, <span class='mundan-finder' data-std='1118' data-id='99'>99</span>, <span class='mundan-finder' data-std='1118' data-id='103'>103</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1007호 ‘현금흐름표’ 문단 6, 45, 48기업회계기준서 제1001호 ‘재무제표 표시’ 문단 31, 54, 55, 66기업회계기준서 제1118호 '재무제표 표시와 공시' 문단 20, 23~24, 99, 103\n본문\n2026년 1월 갱신: IAS 1 '재무제표 표시'에 대한 참조를 IFRS 18 '재무제표 표시와 공시'에 대",
     "url": "https://db.kasb.or.kr/qnas/5152"
   },
   {
@@ -4831,16 +4911,6 @@
   },
   {
     "type": "qna",
-    "id": 3784,
-    "docNumber": "202003D",
-    "date": "2020-03-30T15:00:00.000Z",
-    "title": "계약을 이행하는 데 드는 교육훈련원가",
-    "relStds": "기업회계기준서 제1115호 ‘고객과의 계약에서 생기는 수익’ 문단 <span class='mundan-finder' data-std='1115' data-id='95'>95</span>, <span class='mundan-finder' data-std='1115' data-id='BC307'>BC307</span><br>\n기업회계기준서 제1038호 ‘무형자산’ 문단 <span class='mundan-finder' data-std='1038' data-id='15'>15</span>, <span class='mundan-finder' data-std='1038' data-id='69'>69</span>\n",
-    "snippet": "관련 회계기준 기업회계기준 제1115호 ‘고객과의 계약에서 생기는 수익’ 문단 95, BC307\n기업회계기준 제1038호 ‘무형자산’ 문단 15, 69\n\n본문\n1. 질의 내용\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 고객과의 계약을 이행하는 데 드는 교육훈련원가에 대한 요청서를 받았다. 요청서에 기술된 사실 관계는 다음과 같다.\na. 기업은 IF",
-    "url": "https://db.kasb.or.kr/qnas/3784"
-  },
-  {
-    "type": "qna",
     "id": 3782,
     "docNumber": "202003B",
     "date": "2020-03-30T15:00:00.000Z",
@@ -4848,6 +4918,16 @@
     "relStds": "기업회계기준서 제1021호 ‘환율변동효과’ 문단 <span class='mundan-finder' data-std='1021' data-id='42'>42⑵</span><br>\n<span class='std-finder' data-std='1029'>기업회계기준서 제1029호 ‘초인플레이션 경제에서의 재무보고’</span>\n",
     "snippet": "관련 회계기준 기업회계기준 제1021호 ‘환율변동효과’ 문단 42⑵\n기업회계기준 제1029호 ‘초인플레이션 경제에서의 재무보고’\n\n본문\n1. 질의 내용\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 IAS 21과 IAS 29 적용에 대한 요청서를 받았다. 요청서에 기술된 사실 관계는 다음과 같다. \na. 기업의 표시통화는 IAS 29에서 정의하는 초인",
     "url": "https://db.kasb.or.kr/qnas/3782"
+  },
+  {
+    "type": "qna",
+    "id": 3784,
+    "docNumber": "202003D",
+    "date": "2020-03-30T15:00:00.000Z",
+    "title": "계약을 이행하는 데 드는 교육훈련원가",
+    "relStds": "기업회계기준서 제1115호 ‘고객과의 계약에서 생기는 수익’ 문단 <span class='mundan-finder' data-std='1115' data-id='95'>95</span>, <span class='mundan-finder' data-std='1115' data-id='BC307'>BC307</span><br>\n기업회계기준서 제1038호 ‘무형자산’ 문단 <span class='mundan-finder' data-std='1038' data-id='15'>15</span>, <span class='mundan-finder' data-std='1038' data-id='69'>69</span>\n",
+    "snippet": "관련 회계기준 기업회계기준 제1115호 ‘고객과의 계약에서 생기는 수익’ 문단 95, BC307\n기업회계기준 제1038호 ‘무형자산’ 문단 15, 69\n\n본문\n1. 질의 내용\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 고객과의 계약을 이행하는 데 드는 교육훈련원가에 대한 요청서를 받았다. 요청서에 기술된 사실 관계는 다음과 같다.\na. 기업은 IF",
+    "url": "https://db.kasb.or.kr/qnas/3784"
   },
   {
     "type": "qna",
@@ -5375,8 +5455,8 @@
     "docNumber": "201909F",
     "date": "2019-09-29T15:00:00.000Z",
     "title": "생물자산에 대한 후속지출",
-    "relStds": "기업회계기준서 제1041호 ‘농림어업’ 문단 <span class='mundan-finder' data-std='1041' data-id='B62'>B62</span><br>\n기업회계기준서 제1001호 '재무제표 표시' 문단 <span class='mundan-finder' data-std='1001' data-id='81~105'>81~105</span>, <span class='mundan-finder' data-std='1001' data-id='85'>85</span>, <span class='mundan-finder' data-std='1001' data-id='99'>99</span>, <span class='mundan-finder' data-std='1001' data-id='117~124'>117~124</span><br>\n기업회계기준서 제1008호 '회계정책 회계추정의 변경 및 오류' 문단 <span class='mundan-finder' data-std='1008' data-id='13'>13</span>\n",
-    "snippet": "관련 회계기준 기업회계기준 제1041호 ‘농림어업’ 문단 B62\n기업회계기준 제1001호 '재무제표 표시' 문단 81~105, 85, 99, 117~124\n기업회계기준 제1008호 '회계정책 회계추정의 변경 및 오류' 문단 13\n\n본문\n1. 질의 내용\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 IAS 41을 적용하여 공정가치에서 처분부대원가를 뺀 ",
+    "relStds": "기업회계기준서 제1041호 '농림어업' 문단 <span class='mundan-finder' data-std='1041' data-id=''>B62</span><br/>기업회계기준서 제1001호 '재무제표 표시' 문단 <span class='mundan-finder' data-std='1001' data-id='81~105'>81~105</span>, <span class='mundan-finder' data-std='1001' data-id='85'>85</span>, <span class='mundan-finder' data-std='1001' data-id='99'>99</span>, <span class='mundan-finder' data-std='1001' data-id='117~124'>117~124</span><br/>기업회계기준서 제1008호 '재무제표의 작성 기준' 문단 <span class='mundan-finder' data-std='1008' data-id='13'>13</span>, <span class='mundan-finder' data-std='1008' data-id='27A~27I'>27A~27I</span><br/>기업회계기준서 제1118호 ‘재무제표 표시와 공시’ 문단 <span class='mundan-finder' data-std='1118' data-id='23~24'>23~24</span>, <span class='mundan-finder' data-std='1118' data-id='78'>78</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1041호 '농림어업' 문단 B62기업회계기준서 제1001호 '재무제표 표시' 문단 81~105, 85, 99, 117~124기업회계기준서 제1008호 '재무제표의 작성 기준' 문단 13, 27A~27I기업회계기준서 제1118호 ‘재무제표 표시와 공시’ 문단 23~24, 78\n본문\n2026년 1월 갱신: IAS 1 '재무제표 ",
     "url": "https://db.kasb.or.kr/qnas/3778"
   },
   {
@@ -5385,8 +5465,8 @@
     "docNumber": "201909E",
     "date": "2019-09-29T15:00:00.000Z",
     "title": "재무활동에서 생긴 부채의 변동에 대한 공시",
-    "relStds": "기업회계기준서 제1001호 ‘재무제표 표시’ 문단 <span class='mundan-finder' data-std='1001' data-id='30A'>30A</span>, <span class='mundan-finder' data-std='1001' data-id='112'>112⑶</span><br>\n기업회계기준서 제1007호 ‘현금흐름표’ 문단 <span class='mundan-finder' data-std='1007' data-id='44A'>44A</span>, <span class='mundan-finder' data-std='1007' data-id='44B'>44B</span>, <span class='mundan-finder' data-std='1007' data-id='44C'>44C</span>, <span class='mundan-finder' data-std='1007' data-id='44D'>44D</span>, <span class='mundan-finder' data-std='1007' data-id='44E'>44E</span>, <span class='mundan-finder' data-std='1007' data-id='BC10'>BC10</span>, <span class='mundan-finder' data-std='1007' data-id='BC16'>BC16</span>, <span class='mundan-finder' data-std='1007' data-id='BC18'>BC18</span>\n",
-    "snippet": "관련 회계기준 기업회계기준 제1001호 ‘재무제표 표시’ 문단 30A, 112⑶\n기업회계기준 제1007호 ‘현금흐름표’ 문단 44A, 44B, 44C, 44D, 44E, BC10, BC16, BC18\n\n본문\n1. 질의 내용\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 재무활동에서 생기는 부채의 변동과 관련되는 IAS 7의 공시 요구사항에 대해 재무제",
+    "relStds": "기업회계기준서 제1001호 ‘재무제표 표시’ 문단 <span class='mundan-finder' data-std='1001' data-id='30A'>30A</span>, <span class='mundan-finder' data-std='1001' data-id='112'>112⑶</span><br/>기업회계기준서 제1007호 ‘현금흐름표’ 문단 <span class='mundan-finder' data-std='1007' data-id='44A'>44A</span>, <span class='mundan-finder' data-std='1007' data-id='44B'>44B</span>, <span class='mundan-finder' data-std='1007' data-id='44C'>44C</span>, <span class='mundan-finder' data-std='1007' data-id='44D'>44D</span>, <span class='mundan-finder' data-std='1007' data-id='44E'>44E</span>, <span class='mundan-finder' data-std='1007' data-id='BC10'>BC10</span>, <span class='mundan-finder' data-std='1007' data-id='BC16'>BC16</span>, <span class='mundan-finder' data-std='1007' data-id='BC18'>BC18</span><br/>기업회계기준서 제1118호 ‘재무제표 표시와 공시’ 문단 <span class='mundan-finder' data-std='1118' data-id='41~42'>41~42</span>, <span class='mundan-finder' data-std='1118' data-id='113'>113</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1001호 ‘재무제표 표시’ 문단 30A, 112⑶기업회계기준서 제1007호 ‘현금흐름표’ 문단 44A, 44B, 44C, 44D, 44E, BC10, BC16, BC18기업회계기준서 제1118호 ‘재무제표 표시와 공시’ 문단 41~42, 113\n본문\n2026년 1월 갱신: IAS 1 '재무제표 표시'에 대한 참조를 IFRS ",
     "url": "https://db.kasb.or.kr/qnas/3777"
   },
   {
@@ -6055,8 +6135,8 @@
     "docNumber": "201903D",
     "date": "2019-03-30T15:00:00.000Z",
     "title": "비금융항목 매입·매도 계약의 실물 결제",
-    "relStds": "기업회계기준서 제1109호 ‘금융상품’ 문단 <span class='mundan-finder' data-std='1109' data-id='2.4'>2.4</span><br>\n기업회계기준서 제1107호 ‘금융상품: 공시’ 문단 <span class='mundan-finder' data-std='1107' data-id='20'>20⑴㈎</span>\n",
-    "snippet": "관련 회계기준 기업회계기준 제1109호 ‘금융상품’ 문단 2.4\n기업회계기준 제1107호 ‘금융상품: 공시’ 문단 20⑴㈎\n\n본문\n1. 질의 내용\n국제회계기준해석위원회(이하 ‘해석위원회’라 한다)는 미래에 고정가격으로 비금융항목을 사거나 파는 특정한 계약에 IFRS 9을 어떻게 적용하는지에 대해 요청서를 받았다. 요청서에서는 기업이 그러한 계약을 당기손익-",
+    "relStds": "기업회계기준서 제1109호 ‘금융상품’ 문단 <span class='mundan-finder' data-std='1109' data-id='2.4'>2.4</span><br/>기업회계기준서 제1107호 ‘금융상품: 공시’ 문단 <span class='mundan-finder' data-std='1107' data-id='20'>20⑴㈎</span><br/>기업회계기준서 제1118호 ‘재무제표 표시와 공시’ 문단 <span class='mundan-finder' data-std='1118' data-id='B70~B76'>B70~B76</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1109호 ‘금융상품’ 문단 2.4기업회계기준서 제1107호 ‘금융상품: 공시’ 문단 20⑴㈎기업회계기준서 제1118호 ‘재무제표 표시와 공시’ 문단 B70~B76\n본문\n2026년 1월 갱신: IAS 1 '재무제표 표시'에 대한 참조를 IFRS 18 '재무제표 표시와 공시'에 대한 참조로 대체함\n\n1. 질의 내용\n\n국제회계기준",
     "url": "https://db.kasb.or.kr/qnas/3764"
   },
   {
@@ -10431,16 +10511,6 @@
   },
   {
     "type": "qna",
-    "id": 3850,
-    "docNumber": "2020-FSSQA14",
-    "date": "2011-03-03T15:00:00.000Z",
-    "title": "인적분할된 분할존속회사의 회계처리",
-    "relStds": "<span class='std-finder' data-std='2117'>K-IFRS 제2117호 ‘소유주에 대한 비현금자산의 분배’</span>\nK-IFRS 제1008호 ‘회계정책 회계추정의 변경 및 오류’ 문단 <span class='mundan-finder' data-std='1008' data-id='10~12'>10~12</span>",
-    "snippet": "관련 회계기준 K-IFRS 제2117호 ‘소유주에 대한 비현금자산의 분배’\nK-IFRS 제1008호 ‘회계정책 회계추정의 변경 및 오류’ 문단 10~12\n본문\n1.\n\n\t\n\t\n 현 황\n\n\n⃞ 유통부문과 제조부문을 영위하고 있는 회사는 제조부문을 분할하여 분할신설회사에 이전하고자 함\n ◦ 동 분할은 회사의 기존 주주들에게 분할신설회사 주식을 기존 지분에 비례하",
-    "url": "https://db.kasb.or.kr/qnas/3850"
-  },
-  {
-    "type": "qna",
     "id": 3849,
     "docNumber": "2020-FSSQA13",
     "date": "2011-03-03T15:00:00.000Z",
@@ -10448,6 +10518,16 @@
     "relStds": "K-IFRS 제1102호 ‘주식기준보상’ 문단 <span class='mundan-finder' data-std='1102' data-id='43B'>43B</span>, <span class='mundan-finder' data-std='1102' data-id='43D'>43D</span>, <span class='mundan-finder' data-std='1102' data-id='B45'>B45</span>\n재무보고를 위한 개념체계 문단 <span class='mundan-finder' data-std='1000' data-id='5.7'>5.7</span>, <span class='mundan-finder' data-std='1000' data-id='5.12'>5.12</span>, <span class='mundan-finder' data-std='1000' data-id='5.18'>5.18</span> ",
     "snippet": "관련 회계기준 K-IFRS 제1102호 ‘주식기준보상’ 문단 43B, 43D, B45\n재무보고를 위한 개념체계 문단 5.7, 5.12, 5.18 \n본문\n1.\n\n\t\n\t\n 현 황\n\n\n□ A금융그룹은 종업원에 대한 보상제도의 일환으로 ‘x2년부터 ’x8년까지 스톡옵션(stock option) 제도를 운영함\n ◦ 최상위 지배기업인 지주회사(이하 ‘지배기업’)는 동",
     "url": "https://db.kasb.or.kr/qnas/3849"
+  },
+  {
+    "type": "qna",
+    "id": 3850,
+    "docNumber": "2020-FSSQA14",
+    "date": "2011-03-03T15:00:00.000Z",
+    "title": "인적분할된 분할존속회사의 회계처리",
+    "relStds": "<span class='std-finder' data-std='2117'>K-IFRS 제2117호 ‘소유주에 대한 비현금자산의 분배’</span>\nK-IFRS 제1008호 ‘회계정책 회계추정의 변경 및 오류’ 문단 <span class='mundan-finder' data-std='1008' data-id='10~12'>10~12</span>",
+    "snippet": "관련 회계기준 K-IFRS 제2117호 ‘소유주에 대한 비현금자산의 분배’\nK-IFRS 제1008호 ‘회계정책 회계추정의 변경 및 오류’ 문단 10~12\n본문\n1.\n\n\t\n\t\n 현 황\n\n\n⃞ 유통부문과 제조부문을 영위하고 있는 회사는 제조부문을 분할하여 분할신설회사에 이전하고자 함\n ◦ 동 분할은 회사의 기존 주주들에게 분할신설회사 주식을 기존 지분에 비례하",
+    "url": "https://db.kasb.or.kr/qnas/3850"
   },
   {
     "type": "qna",
@@ -15758,6 +15838,16 @@
     "relStds": "일반기업회계기준 제8장 문단 <span class='mundan-finder' data-std='8' data-id='8.31'>8.31</span>\n",
     "snippet": "관련 회계기준 제8장 문단 8.31\n\n본문\nⅠ. 질의내용\n- A사는 B, C, D의 투자회사(B,C,D는 모두 A의 종속회사)\n- A사의 직접 투자지분은 B(80%), C(88%), D(80%)\n- A사의 간접 투자지분은 B사를 통해 D사 10%, C사를 통해 D사 10%\n- 즉, A사는 D사를 100% 직?간접 소유하고 있음\n- D사의 입장에서 A, B,",
     "url": "https://db.kasb.or.kr/qnas/2441"
+  },
+  {
+    "type": "qna",
+    "id": 7239,
+    "docNumber": "200506A",
+    "date": "2005-06-29T15:00:00.000Z",
+    "title": "IAS 1 정상영업주기",
+    "relStds": "기업회계기준서 제1001호 ‘재무제표 표시’ 문단 <span class='mundan-finder' data-std='1001' data-id='1.66'>1.66</span><br/>기업회계기준서 제1118호 ‘재무제표 표시와 공시’ 문단 <span class='mundan-finder' data-std='1118' data-id='15~24'>15~24</span>, <span class='mundan-finder' data-std='1118' data-id='41~42'>41~42</span>, <span class='mundan-finder' data-std='1118' data-id='99'>99</span>, <span class='mundan-finder' data-std='1118' data-id='106'>106</span>",
+    "snippet": "관련 회계기준 기업회계기준서 제1001호 ‘재무제표 표시’ 문단 1.66기업회계기준서 제1118호 ‘재무제표 표시와 공시’ 문단 15~24, 41~42, 99, 106\n본문\n2026년 1월 갱신: IAS 1 ‘재무제표 표시’의 참조를 IFRS 18 ‘재무제표 표시와 공시’의 참조로 대체함\n\n1. 질의 내용\n\n국제회계기준해석위원회(이하 '해석위원회'라 한다)",
+    "url": "https://db.kasb.or.kr/qnas/7239"
   },
   {
     "type": "qna",
